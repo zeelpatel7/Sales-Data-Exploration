@@ -19,4 +19,13 @@ Cleaning the data was required due to the presence of a lot of unwanted informat
 
 ## Data Visualizations
 ![alt text](https://github.com/zeelpatel7/Sales-Data-Exploration/blob/main/Visualizations/Customer%20Segmentation.png)
-
+![alt text](https://github.com/zeelpatel7/Sales-Data-Exploration/blob/main/Visualizations/Expenditure%20Dashboard.png)
+![alt text](https://github.com/zeelpatel7/Sales-Data-Exploration/blob/main/Visualizations/Membership%20Dashboard.png)
+![alt text](https://github.com/zeelpatel7/Sales-Data-Exploration/blob/main/Visualizations/Product%20Segmentation.png)
+![alt text](https://github.com/zeelpatel7/Sales-Data-Exploration/blob/main/Visualizations/Store%20Segmentation%201.0.png)
+![alt text](https://github.com/zeelpatel7/Sales-Data-Exploration/blob/main/Visualizations/Store%20Segmentation%202.0.png)
+![alt text](https://github.com/zeelpatel7/Sales-Data-Exploration/blob/main/Visualizations/Sales%20Segmentation.png)
+![alt text](https://github.com/zeelpatel7/Sales-Data-Exploration/blob/main/Visualizations/Sales%20and%20Customer%20Segmentation%201.0.png)
+![alt text](https://github.com/zeelpatel7/Sales-Data-Exploration/blob/main/Visualizations/Sales%20and%20Customer%20Segmentation%202.0.png)
+![alt text](https://github.com/zeelpatel7/Sales-Data-Exploration/blob/main/Visualizations/Basket%20and%20Product%20Segmentation%201.0.png)
+![alt text](https://github.com/zeelpatel7/Sales-Data-Exploration/blob/main/Visualizations/Basket%20and%20Product%20Segmentation%202.0.png)
