@@ -13,3 +13,9 @@ In the following notebook we will be performing an analysis and presenting our f
 
 ## Import the Dataset and Preview
 The dataset was available to us with a lot of superfluous information which then had to be imported, cleaned and transformed for the following analysis to take place. 
+
+### Preprocessig
+Cleaning the data was required due to the presence of a lot of unwanted information along with the inaccuracy of data placements. Pulling out null values along with transforming the data types were the core procedures.
+
+## Data Visualizations
+
