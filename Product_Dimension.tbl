@@ -1,0 +1,1097 @@
+1|Food|Canned Goods|Pam's Club Chicken Noodle Soup|PC26182784343090822|2.09|0.32|0|0|1|0|0|Pam's Club|Chicken Noodle Soup
+2|Non-Food|Liquor|Pam's Club Hard Cider|PC26182784343091366|20.09|0.31|0|0|1|0|0|Pam's Club|Hard Cider
+3|Food|Dairy|SimpleBuy Low Fat Milk|SB26182784343091082|3.19|0.29|1|1|1|1|1|SimpleBuy|Low Fat Milk
+4|Food|Bakery|SimpleBuy Italian Bread|SB26182784343090786|3.19|0.40|1|1|1|1|1|SimpleBuy|Italian Bread
+5|Food|Frozen Goods|DealZone Vanilla Ice Cream|DZ26182784343090461|5.59|0.28|0|0|0|1|0|DealZone|Vanilla Ice Cream
+6|Food|Canned Goods|Portland's Best Canned Peaches|PB26182784343090892|3.09|0.32|1|1|0|0|0|Portland's Best|Canned Peaches
+7|Food|Frozen Goods|ValueMart Frozen Pizza|VM26182784343090435|7.99|0.28|1|1|1|1|1|ValueMart|Frozen Pizza
+8|Food|Bakery|Super-Valu Croissants|SV26182784343090744|3.29|0.40|1|1|1|1|1|Super-Valu|Croissants
+9|Food|Frozen Goods|Pam's Club Frozen Juice|PC26182784343090478|2.09|0.28|0|0|1|0|0|Pam's Club|Frozen Juice
+10|Non-Food|Liquor|Super-Valu Hard Lemonade|SV26182784343091440|8.69|0.31|1|1|1|1|1|Super-Valu|Hard Lemonade
+11|Food|Canned Goods|Portland's Best Fruit Cocktail|PB26182784343090884|2.09|0.32|1|1|0|0|0|Portland's Best|Fruit Cocktail
+12|Misc|Photography|TopQuality Photography Paper|TQ26182784343091566|22.09|0.24|1|1|1|1|1|TopQuality|Photography Paper
+13|Food|Seafood|Trader Jon's Swordfish|TJ26182784343091255|19.09|0.24|1|1|1|1|1|Trader Jon's|Swordfish
+14|Food|Produce|DealZone Squash|DZ26182784343090677|1.89|0.31|0|0|0|1|0|DealZone|Squash
+15|Food|Seafood|Trader Jon's Haddock|TJ26182784343091319|11.29|0.24|1|1|1|1|1|Trader Jon's|Haddock
+16|Food|Dairy|ValueMart Skim Milk|VM26182784343091147|3.49|0.29|1|1|1|1|1|ValueMart|Skim Milk
+17|Food|Canned Goods|Portland's Best Canned Chili|PB26182784343090852|2.09|0.32|1|1|0|0|0|Portland's Best|Canned Chili
+18|Food|Produce|Trader Jon's Cucumbers|TJ26182784343090647|2.29|0.31|1|1|1|1|1|Trader Jon's|Cucumbers
+19|Non-Food|Liquor|SimpleBuy Vodka|SB26182784343091354|21.29|0.31|1|1|1|1|1|SimpleBuy|Vodka
+20|Food|Meat|Trader Jon's Bacon|TJ26182784343091047|4.49|0.30|1|1|1|1|1|Trader Jon's|Bacon
+21|Non-Food|Liquor|Trader Jon's Mezcal|TJ26182784343091455|16.89|0.31|1|1|1|1|1|Trader Jon's|Mezcal
+22|Food|Produce|DealZone Lettuce|DZ26182784343090613|0.99|0.31|0|0|0|1|0|DealZone|Lettuce
+23|Food|Dairy|Super-Valu Cheddar Cheese|SV26182784343091104|3.29|0.29|1|1|1|1|1|Super-Valu|Cheddar Cheese
+24|Non-Food|Cleaning Supplies|BestPrice Brooms|BP26182784343091458|7.29|0.32|1|1|1|1|1|BestPrice|Brooms
+25|Non-Food|Liquor|DealZone Hard Lemonade|DZ26182784343091445|7.39|0.31|0|0|0|1|0|DealZone|Hard Lemonade
+26|Food|Meat|SimpleBuy Ground Beef|SB26182784343090970|6.39|0.30|1|1|1|1|1|SimpleBuy|Ground Beef
+27|Food|Seafood|Pam's Club Clams|PC26182784343091294|10.09|0.24|0|0|1|0|0|Pam's Club|Clams
+28|Non-Food|Liquor|ValueMart Hard Lemonade|VM26182784343091443|9.19|0.31|1|1|1|1|1|ValueMart|Hard Lemonade
+29|Misc|Gifts|SanTop Watch|ST26182784343091589|78.09|0.22|1|1|1|1|1|SanTop|Watch
+30|Food|Dairy|Pam's Club Yogurt|PC26182784343091134|4.09|0.29|0|0|1|0|0|Pam's Club|Yogurt
+31|Food|Bakery|SimpleBuy Peanut Butter Cookies|SB26182784343090770|3.19|0.40|1|1|1|1|1|SimpleBuy|Peanut Butter Cookies
+32|Food|Frozen Goods|Pam's Club Frozen Ravioli|PC26182784343090446|7.09|0.28|0|0|1|0|0|Pam's Club|Frozen Ravioli
+33|Food|Produce|Portland's Best Tomatoes|PB26182784343090596|2.09|0.31|1|1|0|0|0|Portland's Best|Tomatoes
+34|Food|Bakery|ValueMart Italian Bread|VM26182784343090787|3.49|0.40|1|1|1|1|1|ValueMart|Italian Bread
+35|Non-Food|Liquor|ValueMart Bourbon|VM26182784343091411|20.59|0.31|1|1|1|1|1|ValueMart|Bourbon
+36|Food|Bakery|DealZone Italian Bread|DZ26182784343090789|2.79|0.40|0|0|0|1|0|DealZone|Italian Bread
+37|Food|Meat|EasyFind Rotisserie Chicken|EF26182784343091001|5.69|0.30|0|0|0|0|1|EasyFind|Rotisserie Chicken
+38|Food|Frozen Goods|Trader Jon's Fish Sticks|TJ26182784343090487|4.49|0.28|1|1|1|1|1|Trader Jon's|Fish Sticks
+39|Food|Meat|DealZone Pork|DZ26182784343091037|9.29|0.30|0|0|0|1|0|DealZone|Pork
+40|Food|Dairy|Trader Jon's Cheddar Cheese|TJ26182784343091111|3.39|0.29|1|1|1|1|1|Trader Jon's|Cheddar Cheese
+41|Non-Food|Liquor|ValueMart Pisco|VM26182784343091427|22.89|0.31|1|1|1|1|1|ValueMart|Pisco
+42|Non-Food|Liquor|SimpleBuy Ipa|SB26182784343091402|8.49|0.31|1|1|1|1|1|SimpleBuy|Ipa
+43|Non-Food|Cleaning Supplies|JoyDeal Fabric Softener|JD26182784343091465|5.79|0.32|1|1|1|1|1|JoyDeal|Fabric Softener
+44|Food|Canned Goods|ValueMart Canned Peaches|VM26182784343090891|3.49|0.32|1|1|1|1|1|ValueMart|Canned Peaches
+45|Food|Seafood|SimpleBuy Shrimp|SB26182784343091202|10.69|0.24|1|1|1|1|1|SimpleBuy|Shrimp
+46|Food|Canned Goods|Super-Valu Chicken Noodle Soup|SV26182784343090816|2.19|0.32|1|1|1|1|1|Super-Valu|Chicken Noodle Soup
+47|Misc|Photography|TopQuality Picture Frames|TQ26182784343091570|13.29|0.24|1|1|1|1|1|TopQuality|Picture Frames
+48|Food|Meat|Pam's Club Veal|PC26182784343091030|14.09|0.30|0|0|1|0|0|Pam's Club|Veal
+49|Food|Canned Goods|Portland's Best Minestrone Soup|PB26182784343090836|2.09|0.32|1|1|0|0|0|Portland's Best|Minestrone Soup
+50|Food|Frozen Goods|Portland's Best Vanilla Ice Cream|PB26182784343090460|6.19|0.28|1|1|0|0|0|Portland's Best|Vanilla Ice Cream
+51|Food|Frozen Goods|SimpleBuy Fish Sticks|SB26182784343090482|4.29|0.28|1|1|1|1|1|SimpleBuy|Fish Sticks
+52|Food|Canned Goods|Portland's Best Canned Corn|PB26182784343090900|2.09|0.32|1|1|0|0|0|Portland's Best|Canned Corn
+53|Non-Food|Cleaning Supplies|JoyDeal Dish Soap|JD26182784343091457|3.89|0.32|1|1|1|1|1|JoyDeal|Dish Soap
+54|Food|Bakery|ValueMart Chocolate Chip Cookies|VM26182784343090763|3.49|0.40|1|1|1|1|1|ValueMart|Chocolate Chip Cookies
+55|Medical|Medical|Mother's Choice Sling|MC26182784343091495|11.79|0.27|1|1|1|1|1|Mother's Choice|Sling
+56|Non-Food|Liquor|ValueMart Tequila|VM26182784343091379|17.19|0.31|1|1|1|1|1|ValueMart|Tequila
+57|Food|Canned Goods|Super-Valu Canned Chili|SV26182784343090848|2.19|0.32|1|1|1|1|1|Super-Valu|Canned Chili
+58|Food|Bakery|SimpleBuy White Bread|SB26182784343090802|3.19|0.40|1|1|1|1|1|SimpleBuy|White Bread
+59|Food|Dairy|Super-Valu Yogurt|SV26182784343091128|4.39|0.29|1|1|1|1|1|Super-Valu|Yogurt
+60|Food|Frozen Goods|Portland's Best Frozen Onion Rings|PB26182784343090548|3.09|0.28|1|1|0|0|0|Portland's Best|Frozen Onion Rings
+61|Food|Produce|EasyFind Bananas|EF26182784343090569|0.99|0.31|0|0|0|0|1|EasyFind|Bananas
+62|Non-Food|Liquor|DealZone Ale|DZ26182784343091437|8.29|0.31|0|0|0|1|0|DealZone|Ale
+63|Food|Bakery|Portland's Best Jelly Donuts|PB26182784343090756|4.09|0.40|1|1|0|0|0|Portland's Best|Jelly Donuts
+64|Non-Food|Liquor|EasyFind Red Wine|EF26182784343091337|18.89|0.31|0|0|0|0|1|EasyFind|Red Wine
+65|Food|Produce|SimpleBuy Cantaloupe|SB26182784343090666|2.19|0.31|1|1|1|1|1|SimpleBuy|Cantaloupe
+66|Food|Canned Goods|ValueMart Canned Chicken Broth|VM26182784343090939|2.29|0.32|1|1|1|1|1|ValueMart|Canned Chicken Broth
+67|Food|Produce|EasyFind Garlic|EF26182784343090681|0.99|0.31|0|0|0|0|1|EasyFind|Garlic
+68|Food|Produce|DealZone Green Peppers|DZ26182784343090637|1.89|0.31|0|0|0|1|0|DealZone|Green Peppers
+69|Non-Food|Cleaning Supplies|JoyDeal Mops|JD26182784343091461|7.69|0.32|1|1|1|1|1|JoyDeal|Mops
+70|Food|Meat|EasyFind Tenderloin|EF26182784343090953|10.39|0.30|0|0|0|0|1|EasyFind|Tenderloin
+71|Food|Seafood|Pam's Club Tuna|PC26182784343091230|10.09|0.24|0|0|1|0|0|Pam's Club|Tuna
+72|Food|Meat|Pam's Club Pork|PC26182784343091038|10.09|0.30|0|0|1|0|0|Pam's Club|Pork
+73|Medical|Medical|Mother's Choice Baby Powder|MC26182784343091491|4.99|0.27|1|1|1|1|1|Mother's Choice|Baby Powder
+74|Food|Meat|Trader Jon's Glazed Ham|TJ26182784343090999|5.69|0.30|1|1|1|1|1|Trader Jon's|Glazed Ham
+75|Food|Seafood|Pam's Club Haddock|PC26182784343091318|10.09|0.24|0|0|1|0|0|Pam's Club|Haddock
+76|Non-Food|Liquor|Portland's Best Ipa|PB26182784343091404|8.19|0.31|1|1|0|0|0|Portland's Best|Ipa
+77|Food|Seafood|Trader Jon's Crab Cakes|TJ26182784343091279|13.49|0.24|1|1|1|1|1|Trader Jon's|Crab Cakes
+78|Food|Bakery|Trader Jon's Peanut Butter Cookies|TJ26182784343090775|3.39|0.40|1|1|1|1|1|Trader Jon's|Peanut Butter Cookies
+79|Food|Bakery|DealZone Bagels|DZ26182784343090781|2.79|0.40|0|0|0|1|0|DealZone|Bagels
+80|Misc|Photography|SanTop Cables|ST26182784343091577|8.39|0.24|1|1|1|1|1|SanTop|Cables
+81|Food|Frozen Goods|Trader Jon's Ice|TJ26182784343090559|1.19|0.28|1|1|1|1|1|Trader Jon's|Ice
+82|Non-Food|Cleaning Supplies|JoyDeal Brooms|JD26182784343091459|7.69|0.32|1|1|1|1|1|JoyDeal|Brooms
+83|Medical|Pharmacy|VidaSource Sleeping Pills|VS26182784343091528|11.69|0.26|1|1|1|1|1|VidaSource|Sleeping Pills
+84|Medical|Pharmacy|VidaSource Nicotine Gum|VS26182784343091530|23.29|0.26|1|1|1|1|1|VidaSource|Nicotine Gum
+85|Food|Meat|SimpleBuy Bratwurst|SB26182784343091066|6.39|0.30|1|1|1|1|1|SimpleBuy|Bratwurst
+86|Food|Seafood|Portland's Best Shrimp|PB26182784343091204|10.29|0.24|1|1|0|0|0|Portland's Best|Shrimp
+87|Food|Dairy|Portland's Best Mozzarella Cheese|PB26182784343091116|3.09|0.29|1|1|0|0|0|Portland's Best|Mozzarella Cheese
+88|Food|Seafood|ValueMart Fried Fish Patties|VM26182784343091267|5.79|0.24|1|1|1|1|1|ValueMart|Fried Fish Patties
+89|Food|Seafood|Trader Jon's Flounder|TJ26182784343091311|13.49|0.24|1|1|1|1|1|Trader Jon's|Flounder
+90|Non-Food|Liquor|Portland's Best Champagne|PB26182784343091420|30.69|0.31|1|1|0|0|0|Portland's Best|Champagne
+91|Food|Seafood|EasyFind Tuna|EF26182784343091225|9.49|0.24|0|0|0|0|1|EasyFind|Tuna
+92|Non-Food|Cleaning Supplies|JoyDeal Trash Bags|JD26182784343091475|5.79|0.32|1|1|1|1|1|JoyDeal|Trash Bags
+93|Food|Produce|Portland's Best Cantaloupe|PB26182784343090668|2.09|0.31|1|1|0|0|0|Portland's Best|Cantaloupe
+94|Non-Food|Liquor|EasyFind Rum|EF26182784343091393|16.99|0.31|0|0|0|0|1|EasyFind|Rum
+95|Food|Produce|ValueMart Onions|VM26182784343090659|1.19|0.31|1|1|1|1|1|ValueMart|Onions
+96|Food|Seafood|SimpleBuy Crab Cakes|SB26182784343091274|12.79|0.24|1|1|1|1|1|SimpleBuy|Crab Cakes
+97|Food|Dairy|EasyFind Mozzarella Cheese|EF26182784343091113|2.89|0.29|0|0|0|0|1|EasyFind|Mozzarella Cheese
+98|Food|Produce|ValueMart Tomatoes|VM26182784343090595|2.29|0.31|1|1|1|1|1|ValueMart|Tomatoes
+99|Medical|Pharmacy|VidaSource Asthma Inhaler|VS26182784343091526|46.49|0.26|1|1|1|1|1|VidaSource|Asthma Inhaler
+100|Non-Food|Liquor|Pam's Club Pisco|PC26182784343091430|20.09|0.31|0|0|1|0|0|Pam's Club|Pisco
+101|Food|Frozen Goods|Portland's Best Strawberry Ice Cream|PB26182784343090468|6.19|0.28|1|1|0|0|0|Portland's Best|Strawberry Ice Cream
+102|Food|Frozen Goods|Portland's Best Frozen French Fries|PB26182784343090500|5.19|0.28|1|1|0|0|0|Portland's Best|Frozen French Fries
+103|Medical|Pharmacy|Mother's Choice Nicotine Gum|MC26182784343091531|19.69|0.26|1|1|1|1|1|Mother's Choice|Nicotine Gum
+104|Food|Canned Goods|Super-Valu Baked Beans|SV26182784343090864|2.19|0.32|1|1|1|1|1|Super-Valu|Baked Beans
+105|Food|Seafood|Trader Jon's Shrimp|TJ26182784343091207|11.29|0.24|1|1|1|1|1|Trader Jon's|Shrimp
+106|Food|Produce|Portland's Best Squash|PB26182784343090676|2.09|0.31|1|1|0|0|0|Portland's Best|Squash
+107|Food|Meat|EasyFind Chicken Patties|EF26182784343091017|4.79|0.30|0|0|0|0|1|EasyFind|Chicken Patties
+108|Non-Food|Liquor|SimpleBuy White Wine|SB26182784343091346|21.29|0.31|1|1|1|1|1|SimpleBuy|White Wine
+109|Food|Seafood|Super-Valu Haddock|SV26182784343091312|10.89|0.24|1|1|1|1|1|Super-Valu|Haddock
+110|Food|Frozen Goods|ValueMart Frozen Onion Rings|VM26182784343090547|3.49|0.28|1|1|1|1|1|ValueMart|Frozen Onion Rings
+111|Food|Produce|EasyFind Cucumbers|EF26182784343090641|1.89|0.31|0|0|0|0|1|EasyFind|Cucumbers
+112|Misc|Photography|SanTop Camera Case|ST26182784343091563|31.29|0.24|1|1|1|1|1|SanTop|Camera Case
+113|Food|Produce|SimpleBuy Onions|SB26182784343090658|1.09|0.31|1|1|1|1|1|SimpleBuy|Onions
+114|Food|Seafood|Trader Jon's Catfish|TJ26182784343091327|10.09|0.24|1|1|1|1|1|Trader Jon's|Catfish
+115|Medical|Pharmacy|VidaSource Allergy Pills|VS26182784343091522|13.99|0.26|1|1|1|1|1|VidaSource|Allergy Pills
+116|Food|Seafood|Pam's Club Crab Legs|PC26182784343091302|15.09|0.24|0|0|1|0|0|Pam's Club|Crab Legs
+117|Food|Meat|Super-Valu Chicken Patties|SV26182784343091016|5.49|0.30|1|1|1|1|1|Super-Valu|Chicken Patties
+118|Food|Canned Goods|EasyFind Lima Beans|EF26182784343090921|1.89|0.32|0|0|0|0|1|EasyFind|Lima Beans
+119|Misc|Photography|TopQuality Camera Strap|TQ26182784343091564|11.09|0.24|1|1|1|1|1|TopQuality|Camera Strap
+120|Food|Bakery|Pam's Club French Bread|PC26182784343090694|3.09|0.40|0|0|1|0|0|Pam's Club|French Bread
+121|Food|Dairy|EasyFind Cheddar Cheese|EF26182784343091105|2.89|0.29|0|0|0|0|1|EasyFind|Cheddar Cheese
+122|Food|Frozen Goods|Pam's Club Frozen Pizza|PC26182784343090438|7.09|0.28|0|0|1|0|0|Pam's Club|Frozen Pizza
+123|Food|Seafood|Portland's Best Cod|PB26182784343091236|9.19|0.24|1|1|0|0|0|Portland's Best|Cod
+124|Misc|Gifts|TopQuality Flowers|TQ26182784343091598|16.59|0.22|1|1|1|1|1|TopQuality|Flowers
+125|Non-Food|Liquor|Pam's Club White Wine|PC26182784343091350|20.09|0.31|0|0|1|0|0|Pam's Club|White Wine
+126|Food|Canned Goods|Pam's Club Canned Tuna|PC26182784343090846|2.09|0.32|0|0|1|0|0|Pam's Club|Canned Tuna
+127|Food|Bakery|EasyFind Peanut Butter Cookies|EF26182784343090769|2.89|0.40|0|0|0|0|1|EasyFind|Peanut Butter Cookies
+128|Food|Frozen Goods|EasyFind Frozen French Fries|EF26182784343090497|4.79|0.28|0|0|0|0|1|EasyFind|Frozen French Fries
+129|Non-Food|Liquor|Trader Jon's Scotch|TJ26182784343091375|28.09|0.31|1|1|1|1|1|Trader Jon's|Scotch
+130|Food|Bakery|Trader Jon's Blueberry Muffins|TJ26182784343090735|4.49|0.40|1|1|1|1|1|Trader Jon's|Blueberry Muffins
+131|Food|Dairy|ValueMart American Cheese|VM26182784343091123|3.49|0.29|1|1|1|1|1|ValueMart|American Cheese
+132|Food|Seafood|Trader Jon's Salmon|TJ26182784343091223|11.29|0.24|1|1|1|1|1|Trader Jon's|Salmon
+133|Misc|Photography|TopQuality Memory Card|TQ26182784343091558|22.09|0.24|1|1|1|1|1|TopQuality|Memory Card
+134|Misc|Gifts|TopQuality Birthday Cards|TQ26182784343091586|4.49|0.22|1|1|1|1|1|TopQuality|Birthday Cards
+135|Food|Canned Goods|DealZone Canned Chicken Broth|DZ26182784343090941|1.89|0.32|0|0|0|1|0|DealZone|Canned Chicken Broth
+136|Food|Frozen Goods|SimpleBuy Frozen French Fries|SB26182784343090498|5.39|0.28|1|1|1|1|1|SimpleBuy|Frozen French Fries
+137|Food|Meat|Portland's Best Tenderloin|PB26182784343090956|11.29|0.30|1|1|0|0|0|Portland's Best|Tenderloin
+138|Non-Food|Liquor|Portland's Best Pisco|PB26182784343091428|20.49|0.31|1|1|0|0|0|Portland's Best|Pisco
+139|Non-Food|Liquor|ValueMart White Wine|VM26182784343091347|22.89|0.31|1|1|1|1|1|ValueMart|White Wine
+140|Misc|Photography|SanTop Photography Paper|ST26182784343091567|20.89|0.24|1|1|1|1|1|SanTop|Photography Paper
+141|Food|Meat|Portland's Best Steak|PB26182784343090948|9.19|0.30|1|1|0|0|0|Portland's Best|Steak
+142|Food|Seafood|Trader Jon's Cod|TJ26182784343091239|10.09|0.24|1|1|1|1|1|Trader Jon's|Cod
+143|Non-Food|Liquor|Trader Jon's Vodka|TJ26182784343091359|22.49|0.31|1|1|1|1|1|Trader Jon's|Vodka
+144|Food|Seafood|Portland's Best Lobster|PB26182784343091212|20.49|0.24|1|1|0|0|0|Portland's Best|Lobster
+145|Non-Food|Cleaning Supplies|JoyDeal Glass Cleaner|JD26182784343091479|5.79|0.32|1|1|1|1|1|JoyDeal|Glass Cleaner
+146|Food|Bakery|EasyFind Hamburger Buns|EF26182784343090705|2.89|0.40|0|0|0|0|1|EasyFind|Hamburger Buns
+147|Medical|Pharmacy|Mother's Choice Pain Killers|MC26182784343091525|29.49|0.26|1|1|1|1|1|Mother's Choice|Pain Killers
+148|Food|Bakery|Pam's Club Cinnamon Buns|PC26182784343090814|4.09|0.40|0|0|1|0|0|Pam's Club|Cinnamon Buns
+149|Food|Meat|Trader Jon's Veal|TJ26182784343091031|15.69|0.30|1|1|1|1|1|Trader Jon's|Veal
+150|Food|Frozen Goods|SimpleBuy Vanilla Ice Cream|SB26182784343090458|6.39|0.28|1|1|1|1|1|SimpleBuy|Vanilla Ice Cream
+151|Medical|Pharmacy|VidaSource Vapor Rub|VS26182784343091544|9.29|0.26|1|1|1|1|1|VidaSource|Vapor Rub
+152|Medical|Medical|VidaSource Band Aids|VS26182784343091488|8.19|0.27|1|1|1|1|1|VidaSource|Band Aids
+153|Misc|Gifts|TopQuality Beard Trimmer|TQ26182784343091604|66.09|0.22|1|1|1|1|1|TopQuality|Beard Trimmer
+154|Food|Produce|Portland's Best Broccolli|PB26182784343090604|1.09|0.31|1|1|0|0|0|Portland's Best|Broccolli
+155|Food|Bakery|Trader Jon's Croissants|TJ26182784343090751|3.39|0.40|1|1|1|1|1|Trader Jon's|Croissants
+156|Food|Dairy|Trader Jon's Lactose Free Milk|TJ26182784343091159|5.69|0.29|1|1|1|1|1|Trader Jon's|Lactose Free Milk
+157|Food|Canned Goods|Trader Jon's Canned Peaches|TJ26182784343090895|3.39|0.32|1|1|1|1|1|Trader Jon's|Canned Peaches
+158|Food|Bakery|ValueMart Bagels|VM26182784343090779|3.49|0.40|1|1|1|1|1|ValueMart|Bagels
+159|Food|Produce|ValueMart Potatoes|VM26182784343090619|2.29|0.31|1|1|1|1|1|ValueMart|Potatoes
+160|Food|Frozen Goods|Portland's Best Chocolate Ice Cream|PB26182784343090452|6.19|0.28|1|1|0|0|0|Portland's Best|Chocolate Ice Cream
+161|Medical|Pharmacy|Mother's Choice Asthma Inhaler|MC26182784343091527|39.29|0.26|1|1|1|1|1|Mother's Choice|Asthma Inhaler
+162|Food|Frozen Goods|ValueMart Ice|VM26182784343090555|1.19|0.28|1|1|1|1|1|ValueMart|Ice
+163|Food|Canned Goods|Portland's Best Sardines|PB26182784343090932|4.09|0.32|1|1|0|0|0|Portland's Best|Sardines
+164|Food|Canned Goods|Super-Valu Sardines|SV26182784343090928|4.39|0.32|1|1|1|1|1|Super-Valu|Sardines
+165|Medical|Pharmacy|VidaSource Nicotine Patches|VS26182784343091532|23.29|0.26|1|1|1|1|1|VidaSource|Nicotine Patches
+166|Medical|Medical|VidaSource Sling|VS26182784343091494|13.99|0.27|1|1|1|1|1|VidaSource|Sling
+167|Food|Dairy|Pam's Club Skim Milk|PC26182784343091150|3.09|0.29|0|0|1|0|0|Pam's Club|Skim Milk
+168|Food|Seafood|Super-Valu Cod|SV26182784343091232|9.79|0.24|1|1|1|1|1|Super-Valu|Cod
+169|Food|Meat|Trader Jon's Sausage|TJ26182784343090983|6.79|0.30|1|1|1|1|1|Trader Jon's|Sausage
+170|Food|Dairy|DealZone Grated Parmesan Cheese|DZ26182784343091173|2.79|0.29|0|0|0|1|0|DealZone|Grated Parmesan Cheese
+171|Food|Frozen Goods|Super-Valu Frozen Onion Rings|SV26182784343090544|3.29|0.28|1|1|1|1|1|Super-Valu|Frozen Onion Rings
+172|Medical|Medical|Mother's Choice Orthopedic Brace|MC26182784343091519|24.59|0.27|1|1|1|1|1|Mother's Choice|Orthopedic Brace
+173|Food|Bakery|Pam's Club White Bread|PC26182784343090806|3.09|0.40|0|0|1|0|0|Pam's Club|White Bread
+174|Non-Food|Liquor|DealZone Pisco|DZ26182784343091429|18.49|0.31|0|0|0|1|0|DealZone|Pisco
+175|Food|Seafood|Super-Valu Lobster|SV26182784343091208|21.69|0.24|1|1|1|1|1|Super-Valu|Lobster
+176|Food|Canned Goods|ValueMart Minestrone Soup|VM26182784343090835|2.29|0.32|1|1|1|1|1|ValueMart|Minestrone Soup
+177|Food|Dairy|Portland's Best American Cheese|PB26182784343091124|3.09|0.29|1|1|0|0|0|Portland's Best|American Cheese
+178|Food|Dairy|Super-Valu Half And Half|SV26182784343091160|3.29|0.29|1|1|1|1|1|Super-Valu|Half And Half
+179|Food|Bakery|DealZone Croissants|DZ26182784343090749|2.79|0.40|0|0|0|1|0|DealZone|Croissants
+180|Food|Frozen Goods|Pam's Club Frozen Spinach|PC26182784343090542|2.09|0.28|0|0|1|0|0|Pam's Club|Frozen Spinach
+181|Food|Seafood|ValueMart Salmon|VM26182784343091219|11.49|0.24|1|1|1|1|1|ValueMart|Salmon
+182|Food|Frozen Goods|Trader Jon's Vanilla Ice Cream|TJ26182784343090463|6.79|0.28|1|1|1|1|1|Trader Jon's|Vanilla Ice Cream
+183|Non-Food|Cleaning Supplies|BestPrice Air Freshener|BP26182784343091466|4.59|0.32|1|1|1|1|1|BestPrice|Air Freshener
+184|Food|Bakery|EasyFind Cinnamon Buns|EF26182784343090809|3.79|0.40|0|0|0|0|1|EasyFind|Cinnamon Buns
+185|Medical|Medical|Mother's Choice Cold Remedy|MC26182784343091501|7.89|0.27|1|1|1|1|1|Mother's Choice|Cold Remedy
+186|Food|Meat|DealZone Sliced Turkey|DZ26182784343090989|4.69|0.30|0|0|0|1|0|DealZone|Sliced Turkey
+187|Non-Food|Liquor|Portland's Best Hard Cider|PB26182784343091364|20.49|0.31|1|1|0|0|0|Portland's Best|Hard Cider
+188|Food|Meat|Portland's Best Lamb|PB26182784343090964|11.29|0.30|1|1|0|0|0|Portland's Best|Lamb
+189|Food|Frozen Goods|Super-Valu Frozen Spinach|SV26182784343090536|2.19|0.28|1|1|1|1|1|Super-Valu|Frozen Spinach
+190|Food|Meat|Pam's Club Ground Beef|PC26182784343090974|6.09|0.30|0|0|1|0|0|Pam's Club|Ground Beef
+191|Misc|Gifts|SanTop Greeting Cards|ST26182784343091585|4.19|0.22|1|1|1|1|1|SanTop|Greeting Cards
+192|Medical|Medical|VidaSource Thermometer|VS26182784343091502|9.29|0.27|1|1|1|1|1|VidaSource|Thermometer
+193|Food|Bakery|DealZone Peanut Butter Cookies|DZ26182784343090773|2.79|0.40|0|0|0|1|0|DealZone|Peanut Butter Cookies
+194|Food|Dairy|DealZone Butter Milk|DZ26182784343091197|3.69|0.29|0|0|0|1|0|DealZone|Butter Milk
+195|Food|Produce|SimpleBuy Cucumbers|SB26182784343090642|2.19|0.31|1|1|1|1|1|SimpleBuy|Cucumbers
+196|Misc|Gifts|TopQuality Fishing Pole|TQ26182784343091612|44.09|0.22|1|1|1|1|1|TopQuality|Fishing Pole
+197|Food|Dairy|Pam's Club Whole Milk|PC26182784343091078|3.09|0.29|0|0|1|0|0|Pam's Club|Whole Milk
+198|Medical|Medical|VidaSource Heating Pad|VS26182784343091516|27.89|0.27|1|1|1|1|1|VidaSource|Heating Pad
+199|Food|Canned Goods|DealZone Minestrone Soup|DZ26182784343090837|1.89|0.32|0|0|0|1|0|DealZone|Minestrone Soup
+200|Medical|Medical|Mother's Choice Wrap Bandage|MC26182784343091497|9.89|0.27|1|1|1|1|1|Mother's Choice|Wrap Bandage
+201|Food|Dairy|Super-Valu American Cheese|SV26182784343091120|3.29|0.29|1|1|1|1|1|Super-Valu|American Cheese
+202|Food|Seafood|EasyFind Crab Legs|EF26182784343091297|14.19|0.24|0|0|0|0|1|EasyFind|Crab Legs
+203|Food|Meat|Trader Jon's Chicken Nuggets|TJ26182784343091015|5.69|0.30|1|1|1|1|1|Trader Jon's|Chicken Nuggets
+204|Food|Seafood|Trader Jon's Sushi|TJ26182784343091263|8.99|0.24|1|1|1|1|1|Trader Jon's|Sushi
+205|Food|Dairy|Trader Jon's Whipped Cream|TJ26182784343091143|3.39|0.29|1|1|1|1|1|Trader Jon's|Whipped Cream
+206|Food|Bakery|EasyFind Jelly Donuts|EF26182784343090753|3.79|0.40|0|0|0|0|1|EasyFind|Jelly Donuts
+207|Food|Canned Goods|Pam's Club Canned Chili|PC26182784343090854|2.09|0.32|0|0|1|0|0|Pam's Club|Canned Chili
+208|Food|Produce|ValueMart Bananas|VM26182784343090571|1.19|0.31|1|1|1|1|1|ValueMart|Bananas
+209|Food|Meat|ValueMart Sliced Turkey|VM26182784343090987|5.79|0.30|1|1|1|1|1|ValueMart|Sliced Turkey
+210|Food|Meat|Portland's Best Chicken Nuggets|PB26182784343091012|5.19|0.30|1|1|0|0|0|Portland's Best|Chicken Nuggets
+211|Non-Food|Liquor|Pam's Club Tequila|PC26182784343091382|15.09|0.31|0|0|1|0|0|Pam's Club|Tequila
+212|Food|Frozen Goods|SimpleBuy Frozen Pizza|SB26182784343090434|7.49|0.28|1|1|1|1|1|SimpleBuy|Frozen Pizza
+213|Food|Dairy|Pam's Club Cheddar Cheese|PC26182784343091110|3.09|0.29|0|0|1|0|0|Pam's Club|Cheddar Cheese
+214|Food|Seafood|ValueMart Crab Legs|VM26182784343091299|17.19|0.24|1|1|1|1|1|ValueMart|Crab Legs
+215|Food|Seafood|DealZone Flounder|DZ26182784343091309|11.09|0.24|0|0|0|1|0|DealZone|Flounder
+216|Food|Produce|Pam's Club Watermelon|PC26182784343090582|3.09|0.31|0|0|1|0|0|Pam's Club|Watermelon
+217|Medical|Pharmacy|Mother's Choice Cough Syrup|MC26182784343091537|7.89|0.26|1|1|1|1|1|Mother's Choice|Cough Syrup
+218|Food|Produce|EasyFind Oranges|EF26182784343090649|0.99|0.31|0|0|0|0|1|EasyFind|Oranges
+219|Food|Dairy|EasyFind Skim Milk|EF26182784343091145|2.89|0.29|0|0|0|0|1|EasyFind|Skim Milk
+220|Food|Seafood|Portland's Best Sushi|PB26182784343091260|8.19|0.24|1|1|0|0|0|Portland's Best|Sushi
+221|Food|Bakery|Trader Jon's White Bread|TJ26182784343090807|3.39|0.40|1|1|1|1|1|Trader Jon's|White Bread
+222|Food|Dairy|EasyFind Eggs|EF26182784343091089|3.79|0.29|0|0|0|0|1|EasyFind|Eggs
+223|Food|Dairy|Pam's Club Butter Milk|PC26182784343091198|4.09|0.29|0|0|1|0|0|Pam's Club|Butter Milk
+224|Food|Produce|DealZone Broccolli|DZ26182784343090605|0.99|0.31|0|0|0|1|0|DealZone|Broccolli
+225|Food|Bakery|ValueMart Cinnamon Buns|VM26182784343090811|4.59|0.40|1|1|1|1|1|ValueMart|Cinnamon Buns
+226|Food|Produce|Trader Jon's Oranges|TJ26182784343090655|1.19|0.31|1|1|1|1|1|Trader Jon's|Oranges
+227|Food|Seafood|SimpleBuy Salmon|SB26182784343091218|10.69|0.24|1|1|1|1|1|SimpleBuy|Salmon
+228|Food|Meat|ValueMart Hot Dogs|VM26182784343091051|5.79|0.30|1|1|1|1|1|ValueMart|Hot Dogs
+229|Food|Bakery|Trader Jon's Bagels|TJ26182784343090783|3.39|0.40|1|1|1|1|1|Trader Jon's|Bagels
+230|Food|Dairy|Super-Valu Whole Milk|SV26182784343091072|3.29|0.29|1|1|1|1|1|Super-Valu|Whole Milk
+231|Food|Seafood|Pam's Club Scallops|PC26182784343091286|12.09|0.24|0|0|1|0|0|Pam's Club|Scallops
+232|Food|Seafood|DealZone Crab Cakes|DZ26182784343091277|11.09|0.24|0|0|0|1|0|DealZone|Crab Cakes
+233|Food|Canned Goods|Pam's Club Vegatable Soup|PC26182784343090830|2.09|0.32|0|0|1|0|0|Pam's Club|Vegatable Soup
+234|Food|Seafood|Portland's Best Fried Fish Patties|PB26182784343091268|5.19|0.24|1|1|0|0|0|Portland's Best|Fried Fish Patties
+235|Food|Dairy|Super-Valu Butter Milk|SV26182784343091192|4.39|0.29|1|1|1|1|1|Super-Valu|Butter Milk
+236|Misc|Gifts|SanTop Golf Clubs|ST26182784343091615|104.09|0.22|1|1|1|1|1|SanTop|Golf Clubs
+237|Medical|Pharmacy|Mother's Choice Cholesterol Reducer|MC26182784343091541|44.19|0.26|1|1|1|1|1|Mother's Choice|Cholesterol Reducer
+238|Food|Dairy|ValueMart Butter Milk|VM26182784343091195|4.59|0.29|1|1|1|1|1|ValueMart|Butter Milk
+239|Non-Food|Liquor|SimpleBuy Pisco|SB26182784343091426|21.29|0.31|1|1|1|1|1|SimpleBuy|Pisco
+240|Food|Dairy|Portland's Best Whole Milk|PB26182784343091076|3.09|0.29|1|1|0|0|0|Portland's Best|Whole Milk
+241|Non-Food|Liquor|EasyFind Scotch|EF26182784343091369|23.59|0.31|0|0|0|0|1|EasyFind|Scotch
+242|Food|Dairy|DealZone Lactose Free Milk|DZ26182784343091157|4.69|0.29|0|0|0|1|0|DealZone|Lactose Free Milk
+243|Food|Produce|Portland's Best Strawberries|PB26182784343090588|1.09|0.31|1|1|0|0|0|Portland's Best|Strawberries
+244|Food|Seafood|Portland's Best Halibut|PB26182784343091244|9.19|0.24|1|1|0|0|0|Portland's Best|Halibut
+245|Food|Frozen Goods|Pam's Club Strawberry Ice Cream|PC26182784343090470|6.09|0.28|0|0|1|0|0|Pam's Club|Strawberry Ice Cream
+246|Food|Produce|DealZone Cantaloupe|DZ26182784343090669|1.89|0.31|0|0|0|1|0|DealZone|Cantaloupe
+247|Food|Bakery|EasyFind Italian Bread|EF26182784343090785|2.89|0.40|0|0|0|0|1|EasyFind|Italian Bread
+248|Food|Produce|SimpleBuy Strawberries|SB26182784343090586|1.09|0.31|1|1|1|1|1|SimpleBuy|Strawberries
+249|Food|Dairy|Portland's Best Whipped Cream|PB26182784343091140|3.09|0.29|1|1|0|0|0|Portland's Best|Whipped Cream
+250|Food|Frozen Goods|Portland's Best Tv Dinner|PB26182784343090516|5.19|0.28|1|1|0|0|0|Portland's Best|Tv Dinner
+251|Food|Seafood|EasyFind Clams|EF26182784343091289|9.49|0.24|0|0|0|0|1|EasyFind|Clams
+252|Food|Dairy|Super-Valu Lactose Free Milk|SV26182784343091152|5.49|0.29|1|1|1|1|1|Super-Valu|Lactose Free Milk
+253|Non-Food|Cleaning Supplies|JoyDeal Laundry Detergent|JD26182784343091463|5.79|0.32|1|1|1|1|1|JoyDeal|Laundry Detergent
+254|Food|Canned Goods|Super-Valu Canned Green Beans|SV26182784343090912|2.19|0.32|1|1|1|1|1|Super-Valu|Canned Green Beans
+255|Food|Canned Goods|Portland's Best Chicken Noodle Soup|PB26182784343090820|2.09|0.32|1|1|0|0|0|Portland's Best|Chicken Noodle Soup
+256|Misc|Gifts|TopQuality Watch|TQ26182784343091588|82.59|0.22|1|1|1|1|1|TopQuality|Watch
+257|Food|Dairy|EasyFind Whipped Cream|EF26182784343091137|2.89|0.29|0|0|0|0|1|EasyFind|Whipped Cream
+258|Food|Meat|EasyFind Pork|EF26182784343091033|9.49|0.30|0|0|0|0|1|EasyFind|Pork
+259|Non-Food|Cleaning Supplies|BestPrice Mops|BP26182784343091460|7.29|0.32|1|1|1|1|1|BestPrice|Mops
+260|Food|Dairy|Trader Jon's Yogurt|TJ26182784343091135|4.49|0.29|1|1|1|1|1|Trader Jon's|Yogurt
+261|Food|Canned Goods|DealZone Canned Peaches|DZ26182784343090893|2.79|0.32|0|0|0|1|0|DealZone|Canned Peaches
+262|Food|Seafood|Pam's Club Halibut|PC26182784343091246|9.09|0.24|0|0|1|0|0|Pam's Club|Halibut
+263|Food|Canned Goods|Pam's Club Kidney Beans|PC26182784343090878|2.09|0.32|0|0|1|0|0|Pam's Club|Kidney Beans
+264|Food|Canned Goods|ValueMart Canned Green Beans|VM26182784343090915|2.29|0.32|1|1|1|1|1|ValueMart|Canned Green Beans
+265|Food|Seafood|ValueMart Halibut|VM26182784343091243|10.29|0.24|1|1|1|1|1|ValueMart|Halibut
+266|Food|Dairy|SimpleBuy Cheddar Cheese|SB26182784343091106|3.19|0.29|1|1|1|1|1|SimpleBuy|Cheddar Cheese
+267|Food|Produce|Trader Jon's Green Peppers|TJ26182784343090639|2.29|0.31|1|1|1|1|1|Trader Jon's|Green Peppers
+268|Food|Seafood|SimpleBuy Crab Legs|SB26182784343091298|15.99|0.24|1|1|1|1|1|SimpleBuy|Crab Legs
+269|Food|Frozen Goods|Portland's Best Frozen Juice|PB26182784343090476|2.09|0.28|1|1|0|0|0|Portland's Best|Frozen Juice
+270|Food|Dairy|Trader Jon's Whole Milk|TJ26182784343091079|3.39|0.29|1|1|1|1|1|Trader Jon's|Whole Milk
+271|Food|Seafood|Super-Valu Scallops|SV26182784343091280|12.99|0.24|1|1|1|1|1|Super-Valu|Scallops
+272|Food|Dairy|Pam's Club Mozzarella Cheese|PC26182784343091118|3.09|0.29|0|0|1|0|0|Pam's Club|Mozzarella Cheese
+273|Food|Bakery|Pam's Club Italian Bread|PC26182784343090790|3.09|0.40|0|0|1|0|0|Pam's Club|Italian Bread
+274|Food|Meat|Pam's Club Bacon|PC26182784343091046|4.09|0.30|0|0|1|0|0|Pam's Club|Bacon
+275|Food|Produce|Trader Jon's Broccolli|TJ26182784343090607|1.19|0.31|1|1|1|1|1|Trader Jon's|Broccolli
+276|Food|Bakery|DealZone Cinnamon Buns|DZ26182784343090813|3.69|0.40|0|0|0|1|0|DealZone|Cinnamon Buns
+277|Food|Frozen Goods|Super-Valu Frozen French Fries|SV26182784343090496|5.49|0.28|1|1|1|1|1|Super-Valu|Frozen French Fries
+278|Non-Food|Liquor|Trader Jon's Hard Cider|TJ26182784343091367|22.49|0.31|1|1|1|1|1|Trader Jon's|Hard Cider
+279|Food|Produce|DealZone Tomatoes|DZ26182784343090597|1.89|0.31|0|0|0|1|0|DealZone|Tomatoes
+280|Food|Seafood|SimpleBuy Halibut|SB26182784343091242|9.59|0.24|1|1|1|1|1|SimpleBuy|Halibut
+281|Food|Meat|Portland's Best Chicken Patties|PB26182784343091020|5.19|0.30|1|1|0|0|0|Portland's Best|Chicken Patties
+282|Food|Meat|SimpleBuy Pork|SB26182784343091034|10.69|0.30|1|1|1|1|1|SimpleBuy|Pork
+283|Food|Bakery|Portland's Best Hotdog Buns|PB26182784343090716|3.09|0.40|1|1|0|0|0|Portland's Best|Hotdog Buns
+284|Food|Bakery|ValueMart English Muffins|VM26182784343090723|3.49|0.40|1|1|1|1|1|ValueMart|English Muffins
+285|Food|Canned Goods|Trader Jon's Fruit Cocktail|TJ26182784343090887|2.29|0.32|1|1|1|1|1|Trader Jon's|Fruit Cocktail
+286|Medical|Pharmacy|Mother's Choice Decongestant|MC26182784343091549|9.89|0.26|1|1|1|1|1|Mother's Choice|Decongestant
+287|Food|Frozen Goods|Portland's Best Frozen Chicken Patties|PB26182784343090532|5.19|0.28|1|1|0|0|0|Portland's Best|Frozen Chicken Patties
+288|Food|Bakery|Trader Jon's English Muffins|TJ26182784343090727|3.39|0.40|1|1|1|1|1|Trader Jon's|English Muffins
+289|Non-Food|Liquor|Super-Valu Pisco|SV26182784343091424|21.69|0.31|1|1|1|1|1|Super-Valu|Pisco
+290|Food|Frozen Goods|Trader Jon's Ice Cream Sandwiches|TJ26182784343090511|2.29|0.28|1|1|1|1|1|Trader Jon's|Ice Cream Sandwiches
+291|Food|Seafood|Pam's Club Catfish|PC26182784343091326|9.09|0.24|0|0|1|0|0|Pam's Club|Catfish
+292|Food|Bakery|SimpleBuy Bagels|SB26182784343090778|3.19|0.40|1|1|1|1|1|SimpleBuy|Bagels
+293|Medical|Medical|VidaSource First Aid Kit|VS26182784343091492|11.69|0.27|1|1|1|1|1|VidaSource|First Aid Kit
+294|Food|Bakery|Super-Valu White Bread|SV26182784343090800|3.29|0.40|1|1|1|1|1|Super-Valu|White Bread
+295|Food|Meat|SimpleBuy Glazed Ham|SB26182784343090994|5.39|0.30|1|1|1|1|1|SimpleBuy|Glazed Ham
+296|Food|Meat|Trader Jon's Chicken Patties|TJ26182784343091023|5.69|0.30|1|1|1|1|1|Trader Jon's|Chicken Patties
+297|Food|Produce|Portland's Best Red Peppers|PB26182784343090628|2.09|0.31|1|1|0|0|0|Portland's Best|Red Peppers
+298|Misc|Photography|TopQuality Digital Camera|TQ26182784343091552|104.59|0.24|1|1|1|1|1|TopQuality|Digital Camera
+299|Food|Bakery|Pam's Club Peanut Butter Cookies|PC26182784343090774|3.09|0.40|0|0|1|0|0|Pam's Club|Peanut Butter Cookies
+300|Misc|Photography|TopQuality Lens Cleaner|TQ26182784343091582|22.09|0.24|1|1|1|1|1|TopQuality|Lens Cleaner
+301|Food|Produce|Trader Jon's Cantaloupe|TJ26182784343090671|2.29|0.31|1|1|1|1|1|Trader Jon's|Cantaloupe
+302|Food|Produce|Portland's Best Garlic|PB26182784343090684|1.09|0.31|1|1|0|0|0|Portland's Best|Garlic
+303|Food|Seafood|SimpleBuy Flounder|SB26182784343091306|12.79|0.24|1|1|1|1|1|SimpleBuy|Flounder
+304|Food|Seafood|SimpleBuy Scallops|SB26182784343091282|12.79|0.24|1|1|1|1|1|SimpleBuy|Scallops
+305|Food|Canned Goods|Portland's Best Vegatable Soup|PB26182784343090828|2.09|0.32|1|1|0|0|0|Portland's Best|Vegatable Soup
+306|Food|Seafood|Super-Valu Clams|SV26182784343091288|10.89|0.24|1|1|1|1|1|Super-Valu|Clams
+307|Food|Canned Goods|Portland's Best Canned Olives|PB26182784343090908|2.09|0.32|1|1|0|0|0|Portland's Best|Canned Olives
+308|Food|Canned Goods|Super-Valu Minestrone Soup|SV26182784343090832|2.19|0.32|1|1|1|1|1|Super-Valu|Minestrone Soup
+309|Food|Canned Goods|Trader Jon's Canned Green Beans|TJ26182784343090919|2.29|0.32|1|1|1|1|1|Trader Jon's|Canned Green Beans
+310|Non-Food|Liquor|Pam's Club Mezcal|PC26182784343091454|15.09|0.31|0|0|1|0|0|Pam's Club|Mezcal
+311|Non-Food|Cleaning Supplies|JoyDeal Air Freshener|JD26182784343091467|4.89|0.32|1|1|1|1|1|JoyDeal|Air Freshener
+312|Food|Seafood|EasyFind Halibut|EF26182784343091241|8.49|0.24|0|0|0|0|1|EasyFind|Halibut
+313|Food|Produce|Portland's Best Green Peppers|PB26182784343090636|2.09|0.31|1|1|0|0|0|Portland's Best|Green Peppers
+314|Food|Bakery|ValueMart White Bread|VM26182784343090803|3.49|0.40|1|1|1|1|1|ValueMart|White Bread
+315|Food|Canned Goods|SimpleBuy Sardines|SB26182784343090930|4.29|0.32|1|1|1|1|1|SimpleBuy|Sardines
+316|Food|Produce|Pam's Club Oranges|PC26182784343090654|1.09|0.31|0|0|1|0|0|Pam's Club|Oranges
+317|Food|Seafood|DealZone Cod|DZ26182784343091237|8.29|0.24|0|0|0|1|0|DealZone|Cod
+318|Food|Bakery|SimpleBuy Croissants|SB26182784343090746|3.19|0.40|1|1|1|1|1|SimpleBuy|Croissants
+319|Non-Food|Cleaning Supplies|JoyDeal Paper Towels|JD26182784343091473|3.89|0.32|1|1|1|1|1|JoyDeal|Paper Towels
+320|Food|Produce|SimpleBuy Broccolli|SB26182784343090602|1.09|0.31|1|1|1|1|1|SimpleBuy|Broccolli
+321|Food|Dairy|SimpleBuy Grated Parmesan Cheese|SB26182784343091170|3.19|0.29|1|1|1|1|1|SimpleBuy|Grated Parmesan Cheese
+322|Food|Produce|ValueMart Oranges|VM26182784343090651|1.19|0.31|1|1|1|1|1|ValueMart|Oranges
+323|Food|Produce|Trader Jon's Lettuce|TJ26182784343090615|1.19|0.31|1|1|1|1|1|Trader Jon's|Lettuce
+324|Non-Food|Liquor|ValueMart Mezcal|VM26182784343091451|17.19|0.31|1|1|1|1|1|ValueMart|Mezcal
+325|Food|Bakery|Super-Valu Peanut Butter Cookies|SV26182784343090768|3.29|0.40|1|1|1|1|1|Super-Valu|Peanut Butter Cookies
+326|Food|Frozen Goods|EasyFind Ice Cream Sandwiches|EF26182784343090505|1.89|0.28|0|0|0|0|1|EasyFind|Ice Cream Sandwiches
+327|Food|Canned Goods|Trader Jon's Canned Chili|TJ26182784343090855|2.29|0.32|1|1|1|1|1|Trader Jon's|Canned Chili
+328|Food|Meat|Super-Valu Hot Dogs|SV26182784343091048|5.49|0.30|1|1|1|1|1|Super-Valu|Hot Dogs
+329|Food|Produce|Pam's Club Tomatoes|PC26182784343090598|2.09|0.31|0|0|1|0|0|Pam's Club|Tomatoes
+330|Food|Produce|DealZone Oranges|DZ26182784343090653|0.99|0.31|0|0|0|1|0|DealZone|Oranges
+331|Food|Meat|ValueMart Sausage|VM26182784343090979|6.89|0.30|1|1|1|1|1|ValueMart|Sausage
+332|Food|Meat|SimpleBuy Bacon|SB26182784343091042|4.29|0.30|1|1|1|1|1|SimpleBuy|Bacon
+333|Food|Frozen Goods|SimpleBuy Frozen Onion Rings|SB26182784343090546|3.19|0.28|1|1|1|1|1|SimpleBuy|Frozen Onion Rings
+334|Food|Canned Goods|Trader Jon's Canned Corn|TJ26182784343090903|2.29|0.32|1|1|1|1|1|Trader Jon's|Canned Corn
+335|Food|Meat|DealZone Ground Beef|DZ26182784343090973|5.59|0.30|0|0|0|1|0|DealZone|Ground Beef
+336|Food|Canned Goods|ValueMart Sardines|VM26182784343090931|4.59|0.32|1|1|1|1|1|ValueMart|Sardines
+337|Non-Food|Liquor|Portland's Best Ale|PB26182784343091436|9.19|0.31|1|1|0|0|0|Portland's Best|Ale
+338|Food|Frozen Goods|ValueMart Vanilla Ice Cream|VM26182784343090459|6.89|0.28|1|1|1|1|1|ValueMart|Vanilla Ice Cream
+339|Food|Canned Goods|EasyFind Canned Olives|EF26182784343090905|1.89|0.32|0|0|0|0|1|EasyFind|Canned Olives
+340|Non-Food|Liquor|Portland's Best Bourbon|PB26182784343091412|18.39|0.31|1|1|0|0|0|Portland's Best|Bourbon
+341|Food|Meat|ValueMart Chicken Wings|VM26182784343091059|5.79|0.30|1|1|1|1|1|ValueMart|Chicken Wings
+342|Non-Food|Liquor|Pam's Club Gin|PC26182784343091390|20.09|0.31|0|0|1|0|0|Pam's Club|Gin
+343|Food|Bakery|Pam's Club Bagels|PC26182784343090782|3.09|0.40|0|0|1|0|0|Pam's Club|Bagels
+344|Food|Frozen Goods|EasyFind Frozen Spinach|EF26182784343090537|1.89|0.28|0|0|0|0|1|EasyFind|Frozen Spinach
+345|Food|Canned Goods|SimpleBuy Kidney Beans|SB26182784343090874|2.19|0.32|1|1|1|1|1|SimpleBuy|Kidney Beans
+346|Food|Produce|Super-Valu Tomatoes|SV26182784343090592|2.19|0.31|1|1|1|1|1|Super-Valu|Tomatoes
+347|Food|Seafood|Trader Jon's Scallops|TJ26182784343091287|13.49|0.24|1|1|1|1|1|Trader Jon's|Scallops
+348|Food|Frozen Goods|Super-Valu Frozen Bagels|SV26182784343090520|6.49|0.28|1|1|1|1|1|Super-Valu|Frozen Bagels
+349|Food|Canned Goods|Trader Jon's Canned Tuna|TJ26182784343090847|2.29|0.32|1|1|1|1|1|Trader Jon's|Canned Tuna
+350|Food|Frozen Goods|Pam's Club Frozen Bagels|PC26182784343090526|6.09|0.28|0|0|1|0|0|Pam's Club|Frozen Bagels
+351|Food|Produce|Super-Valu Garlic|SV26182784343090680|1.09|0.31|1|1|1|1|1|Super-Valu|Garlic
+352|Food|Bakery|Portland's Best Blueberry Muffins|PB26182784343090732|4.09|0.40|1|1|0|0|0|Portland's Best|Blueberry Muffins
+353|Food|Seafood|EasyFind Haddock|EF26182784343091313|9.49|0.24|0|0|0|0|1|EasyFind|Haddock
+354|Food|Bakery|Super-Valu Corn Muffins|SV26182784343090736|4.39|0.40|1|1|1|1|1|Super-Valu|Corn Muffins
+355|Food|Bakery|Super-Valu Wheat Bread|SV26182784343090792|5.49|0.40|1|1|1|1|1|Super-Valu|Wheat Bread
+356|Misc|Gifts|SanTop Flowers|ST26182784343091599|15.69|0.22|1|1|1|1|1|SanTop|Flowers
+357|Food|Frozen Goods|Trader Jon's Frozen Bagels|TJ26182784343090527|6.79|0.28|1|1|1|1|1|Trader Jon's|Frozen Bagels
+358|Food|Bakery|Trader Jon's Coffee Cake|TJ26182784343090703|4.49|0.40|1|1|1|1|1|Trader Jon's|Coffee Cake
+359|Non-Food|Liquor|EasyFind Ipa|EF26182784343091401|7.59|0.31|0|0|0|0|1|EasyFind|Ipa
+360|Food|Dairy|Trader Jon's Sour Cream|TJ26182784343091183|3.39|0.29|1|1|1|1|1|Trader Jon's|Sour Cream
+361|Non-Food|Liquor|Trader Jon's Red Wine|TJ26182784343091343|22.49|0.31|1|1|1|1|1|Trader Jon's|Red Wine
+362|Food|Frozen Goods|DealZone Frozen Spinach|DZ26182784343090541|1.89|0.28|0|0|0|1|0|DealZone|Frozen Spinach
+363|Food|Bakery|ValueMart Peanut Butter Cookies|VM26182784343090771|3.49|0.40|1|1|1|1|1|ValueMart|Peanut Butter Cookies
+364|Non-Food|Cleaning Supplies|JoyDeal Sponges|JD26182784343091471|4.89|0.32|1|1|1|1|1|JoyDeal|Sponges
+365|Misc|Gifts|TopQuality Football|TQ26182784343091606|16.59|0.22|1|1|1|1|1|TopQuality|Football
+366|Food|Frozen Goods|DealZone Frozen French Fries|DZ26182784343090501|4.69|0.28|0|0|0|1|0|DealZone|Frozen French Fries
+367|Food|Produce|Super-Valu Watermelon|SV26182784343090576|3.29|0.31|1|1|1|1|1|Super-Valu|Watermelon
+368|Food|Canned Goods|Super-Valu Kidney Beans|SV26182784343090872|2.19|0.32|1|1|1|1|1|Super-Valu|Kidney Beans
+369|Medical|Medical|VidaSource Wrap Bandage|VS26182784343091496|11.69|0.27|1|1|1|1|1|VidaSource|Wrap Bandage
+370|Medical|Medical|Mother's Choice Air Purifier|MC26182784343091509|11.79|0.27|1|1|1|1|1|Mother's Choice|Air Purifier
+371|Food|Seafood|EasyFind Flounder|EF26182784343091305|11.29|0.24|0|0|0|0|1|EasyFind|Flounder
+372|Food|Canned Goods|ValueMart Chicken Noodle Soup|VM26182784343090819|2.29|0.32|1|1|1|1|1|ValueMart|Chicken Noodle Soup
+373|Food|Produce|DealZone Bananas|DZ26182784343090573|0.99|0.31|0|0|0|1|0|DealZone|Bananas
+374|Non-Food|Liquor|ValueMart Hard Cider|VM26182784343091363|22.89|0.31|1|1|1|1|1|ValueMart|Hard Cider
+375|Food|Meat|EasyFind Veal|EF26182784343091025|13.19|0.30|0|0|0|0|1|EasyFind|Veal
+376|Food|Seafood|Portland's Best Haddock|PB26182784343091316|10.29|0.24|1|1|0|0|0|Portland's Best|Haddock
+377|Food|Frozen Goods|DealZone Frozen Juice|DZ26182784343090477|1.89|0.28|0|0|0|1|0|DealZone|Frozen Juice
+378|Food|Frozen Goods|Portland's Best Frozen Stuffed Chicken|PB26182784343090492|6.19|0.28|1|1|0|0|0|Portland's Best|Frozen Stuffed Chicken
+379|Food|Seafood|Pam's Club Shrimp|PC26182784343091206|10.09|0.24|0|0|1|0|0|Pam's Club|Shrimp
+380|Food|Produce|ValueMart Strawberries|VM26182784343090587|1.19|0.31|1|1|1|1|1|ValueMart|Strawberries
+381|Food|Seafood|ValueMart Crab Cakes|VM26182784343091275|13.69|0.24|1|1|1|1|1|ValueMart|Crab Cakes
+382|Food|Bakery|Super-Valu Blueberry Muffins|SV26182784343090728|4.39|0.40|1|1|1|1|1|Super-Valu|Blueberry Muffins
+383|Food|Canned Goods|EasyFind Canned Chili|EF26182784343090849|1.89|0.32|0|0|0|0|1|EasyFind|Canned Chili
+384|Food|Frozen Goods|ValueMart Frozen Stuffed Chicken|VM26182784343090491|6.89|0.28|1|1|1|1|1|ValueMart|Frozen Stuffed Chicken
+385|Food|Bakery|EasyFind English Muffins|EF26182784343090721|2.89|0.40|0|0|0|0|1|EasyFind|English Muffins
+386|Food|Seafood|SimpleBuy Sushi|SB26182784343091258|8.49|0.24|1|1|1|1|1|SimpleBuy|Sushi
+387|Medical|Medical|Mother's Choice Heating Pad|MC26182784343091517|23.59|0.27|1|1|1|1|1|Mother's Choice|Heating Pad
+388|Food|Seafood|DealZone Tuna|DZ26182784343091229|9.29|0.24|0|0|0|1|0|DealZone|Tuna
+389|Food|Bakery|SimpleBuy Wheat Bread|SB26182784343090794|5.39|0.40|1|1|1|1|1|SimpleBuy|Wheat Bread
+390|Food|Canned Goods|ValueMart Canned Chili|VM26182784343090851|2.29|0.32|1|1|1|1|1|ValueMart|Canned Chili
+391|Food|Produce|Portland's Best Cucumbers|PB26182784343090644|2.09|0.31|1|1|0|0|0|Portland's Best|Cucumbers
+392|Food|Canned Goods|SimpleBuy Canned Olives|SB26182784343090906|2.19|0.32|1|1|1|1|1|SimpleBuy|Canned Olives
+393|Food|Seafood|SimpleBuy Swordfish|SB26182784343091250|18.09|0.24|1|1|1|1|1|SimpleBuy|Swordfish
+394|Misc|Photography|SanTop Camera Strap|ST26182784343091565|10.49|0.24|1|1|1|1|1|SanTop|Camera Strap
+395|Food|Seafood|Pam's Club Lobster|PC26182784343091214|20.09|0.24|0|0|1|0|0|Pam's Club|Lobster
+396|Food|Seafood|Super-Valu Halibut|SV26182784343091240|9.79|0.24|1|1|1|1|1|Super-Valu|Halibut
+397|Food|Dairy|Pam's Club Half And Half|PC26182784343091166|3.09|0.29|0|0|1|0|0|Pam's Club|Half And Half
+398|Food|Dairy|SimpleBuy Whipped Cream|SB26182784343091138|3.19|0.29|1|1|1|1|1|SimpleBuy|Whipped Cream
+399|Non-Food|Liquor|Super-Valu White Wine|SV26182784343091344|21.69|0.31|1|1|1|1|1|Super-Valu|White Wine
+400|Food|Meat|Pam's Club Chicken Patties|PC26182784343091022|5.09|0.30|0|0|1|0|0|Pam's Club|Chicken Patties
+401|Food|Produce|DealZone Watermelon|DZ26182784343090581|2.79|0.31|0|0|0|1|0|DealZone|Watermelon
+402|Misc|Gifts|TopQuality Basketball|TQ26182784343091608|16.59|0.22|1|1|1|1|1|TopQuality|Basketball
+403|Food|Produce|EasyFind Cantaloupe|EF26182784343090665|1.89|0.31|0|0|0|0|1|EasyFind|Cantaloupe
+404|Food|Frozen Goods|Super-Valu Strawberry Ice Cream|SV26182784343090464|6.49|0.28|1|1|1|1|1|Super-Valu|Strawberry Ice Cream
+405|Non-Food|Cleaning Supplies|BestPrice Bleach|BP26182784343091468|4.59|0.32|1|1|1|1|1|BestPrice|Bleach
+406|Food|Bakery|Pam's Club Croissants|PC26182784343090750|3.09|0.40|0|0|1|0|0|Pam's Club|Croissants
+407|Food|Produce|Super-Valu Strawberries|SV26182784343090584|1.09|0.31|1|1|1|1|1|Super-Valu|Strawberries
+408|Food|Seafood|SimpleBuy Lobster|SB26182784343091210|21.29|0.24|1|1|1|1|1|SimpleBuy|Lobster
+409|Non-Food|Liquor|Super-Valu Gin|SV26182784343091384|21.69|0.31|1|1|1|1|1|Super-Valu|Gin
+410|Food|Frozen Goods|EasyFind Ice|EF26182784343090553|0.99|0.28|0|0|0|0|1|EasyFind|Ice
+411|Food|Seafood|DealZone Lobster|DZ26182784343091213|18.49|0.24|0|0|0|1|0|DealZone|Lobster
+412|Non-Food|Liquor|EasyFind Mezcal|EF26182784343091449|14.19|0.31|0|0|0|0|1|EasyFind|Mezcal
+413|Food|Meat|ValueMart Chicken Patties|VM26182784343091019|5.79|0.30|1|1|1|1|1|ValueMart|Chicken Patties
+414|Misc|Photography|SanTop Analog Camera|ST26182784343091561|104.09|0.24|1|1|1|1|1|SanTop|Analog Camera
+415|Food|Meat|EasyFind Bratwurst|EF26182784343091065|5.69|0.30|0|0|0|0|1|EasyFind|Bratwurst
+416|Food|Bakery|Trader Jon's Hamburger Buns|TJ26182784343090711|3.39|0.40|1|1|1|1|1|Trader Jon's|Hamburger Buns
+417|Food|Canned Goods|SimpleBuy Fruit Cocktail|SB26182784343090882|2.19|0.32|1|1|1|1|1|SimpleBuy|Fruit Cocktail
+418|Non-Food|Liquor|Pam's Club Ale|PC26182784343091438|9.09|0.31|0|0|1|0|0|Pam's Club|Ale
+419|Non-Food|Liquor|Super-Valu Hard Cider|SV26182784343091360|21.69|0.31|1|1|1|1|1|Super-Valu|Hard Cider
+420|Food|Dairy|Portland's Best Skim Milk|PB26182784343091148|3.09|0.29|1|1|0|0|0|Portland's Best|Skim Milk
+421|Food|Dairy|ValueMart Eggs|VM26182784343091091|4.59|0.29|1|1|1|1|1|ValueMart|Eggs
+422|Misc|Photography|SanTop Camera Batteries|ST26182784343091569|10.49|0.24|1|1|1|1|1|SanTop|Camera Batteries
+423|Non-Food|Liquor|DealZone Bourbon|DZ26182784343091413|16.59|0.31|0|0|0|1|0|DealZone|Bourbon
+424|Food|Dairy|Super-Valu Mozzarella Cheese|SV26182784343091112|3.29|0.29|1|1|1|1|1|Super-Valu|Mozzarella Cheese
+425|Food|Meat|Portland's Best Glazed Ham|PB26182784343090996|5.19|0.30|1|1|0|0|0|Portland's Best|Glazed Ham
+426|Medical|Medical|VidaSource Orthopedic Brace|VS26182784343091518|29.09|0.27|1|1|1|1|1|VidaSource|Orthopedic Brace
+427|Food|Meat|DealZone Chicken Wings|DZ26182784343091061|4.69|0.30|0|0|0|1|0|DealZone|Chicken Wings
+428|Food|Meat|EasyFind Lamb|EF26182784343090961|10.39|0.30|0|0|0|0|1|EasyFind|Lamb
+429|Non-Food|Liquor|SimpleBuy Mezcal|SB26182784343091450|15.99|0.31|1|1|1|1|1|SimpleBuy|Mezcal
+430|Food|Frozen Goods|EasyFind Frozen Bagels|EF26182784343090521|5.69|0.28|0|0|0|0|1|EasyFind|Frozen Bagels
+431|Food|Frozen Goods|DealZone Frozen Chicken Patties|DZ26182784343090533|4.69|0.28|0|0|0|1|0|DealZone|Frozen Chicken Patties
+432|Food|Frozen Goods|ValueMart Ice Cream Sandwiches|VM26182784343090507|2.29|0.28|1|1|1|1|1|ValueMart|Ice Cream Sandwiches
+433|Misc|Gifts|SanTop Fishing Pole|ST26182784343091613|41.69|0.22|1|1|1|1|1|SanTop|Fishing Pole
+434|Food|Dairy|Portland's Best Cheddar Cheese|PB26182784343091108|3.09|0.29|1|1|0|0|0|Portland's Best|Cheddar Cheese
+435|Non-Food|Liquor|EasyFind Bourbon|EF26182784343091409|16.99|0.31|0|0|0|0|1|EasyFind|Bourbon
+436|Medical|Pharmacy|Mother's Choice Allergy Pills|MC26182784343091523|11.79|0.26|1|1|1|1|1|Mother's Choice|Allergy Pills
+437|Food|Frozen Goods|Portland's Best Ice|PB26182784343090556|1.09|0.28|1|1|0|0|0|Portland's Best|Ice
+438|Food|Bakery|DealZone Hamburger Buns|DZ26182784343090709|2.79|0.40|0|0|0|1|0|DealZone|Hamburger Buns
+439|Food|Frozen Goods|Pam's Club Ice|PC26182784343090558|1.09|0.28|0|0|1|0|0|Pam's Club|Ice
+440|Non-Food|Liquor|SimpleBuy Bourbon|SB26182784343091410|19.09|0.31|1|1|1|1|1|SimpleBuy|Bourbon
+441|Food|Bakery|Super-Valu French Bread|SV26182784343090688|3.29|0.40|1|1|1|1|1|Super-Valu|French Bread
+442|Food|Seafood|DealZone Halibut|DZ26182784343091245|8.29|0.24|0|0|0|1|0|DealZone|Halibut
+443|Food|Produce|SimpleBuy Red Peppers|SB26182784343090626|2.19|0.31|1|1|1|1|1|SimpleBuy|Red Peppers
+444|Food|Canned Goods|Pam's Club Fruit Cocktail|PC26182784343090886|2.09|0.32|0|0|1|0|0|Pam's Club|Fruit Cocktail
+445|Food|Seafood|Super-Valu Crab Cakes|SV26182784343091272|12.99|0.24|1|1|1|1|1|Super-Valu|Crab Cakes
+446|Food|Dairy|DealZone Margarine|DZ26182784343091189|2.79|0.29|0|0|0|1|0|DealZone|Margarine
+447|Food|Frozen Goods|Portland's Best Frozen Pizza|PB26182784343090436|7.19|0.28|1|1|0|0|0|Portland's Best|Frozen Pizza
+448|Food|Dairy|DealZone Skim Milk|DZ26182784343091149|2.79|0.29|0|0|0|1|0|DealZone|Skim Milk
+449|Food|Frozen Goods|Super-Valu Fish Sticks|SV26182784343090480|4.39|0.28|1|1|1|1|1|Super-Valu|Fish Sticks
+450|Food|Frozen Goods|ValueMart Frozen Ravioli|VM26182784343090443|7.99|0.28|1|1|1|1|1|ValueMart|Frozen Ravioli
+451|Food|Dairy|Trader Jon's Grated Parmesan Cheese|TJ26182784343091175|3.39|0.29|1|1|1|1|1|Trader Jon's|Grated Parmesan Cheese
+452|Non-Food|Liquor|DealZone Scotch|DZ26182784343091373|23.09|0.31|0|0|0|1|0|DealZone|Scotch
+453|Food|Dairy|DealZone Mozzarella Cheese|DZ26182784343091117|2.79|0.29|0|0|0|1|0|DealZone|Mozzarella Cheese
+454|Non-Food|Liquor|DealZone Rum|DZ26182784343091397|16.59|0.31|0|0|0|1|0|DealZone|Rum
+455|Food|Dairy|Trader Jon's Half And Half|TJ26182784343091167|3.39|0.29|1|1|1|1|1|Trader Jon's|Half And Half
+456|Food|Seafood|DealZone Sushi|DZ26182784343091261|7.39|0.24|0|0|0|1|0|DealZone|Sushi
+457|Non-Food|Liquor|Trader Jon's Hard Lemonade|TJ26182784343091447|8.99|0.31|1|1|1|1|1|Trader Jon's|Hard Lemonade
+458|Non-Food|Liquor|Super-Valu Mezcal|SV26182784343091448|16.29|0.31|1|1|1|1|1|Super-Valu|Mezcal
+459|Medical|Pharmacy|Mother's Choice Sleeping Pills|MC26182784343091529|9.89|0.26|1|1|1|1|1|Mother's Choice|Sleeping Pills
+460|Medical|Pharmacy|VidaSource Heart Medication|VS26182784343091550|63.89|0.26|1|1|1|1|1|VidaSource|Heart Medication
+461|Non-Food|Cleaning Supplies|BestPrice Laundry Detergent|BP26182784343091462|5.49|0.32|1|1|1|1|1|BestPrice|Laundry Detergent
+462|Food|Dairy|EasyFind Margarine|EF26182784343091185|2.89|0.29|0|0|0|0|1|EasyFind|Margarine
+463|Non-Food|Liquor|SimpleBuy Ale|SB26182784343091434|9.59|0.31|1|1|1|1|1|SimpleBuy|Ale
+464|Non-Food|Liquor|Trader Jon's Champagne|TJ26182784343091423|33.69|0.31|1|1|1|1|1|Trader Jon's|Champagne
+465|Food|Frozen Goods|Trader Jon's Frozen Chicken Patties|TJ26182784343090535|5.69|0.28|1|1|1|1|1|Trader Jon's|Frozen Chicken Patties
+466|Food|Frozen Goods|ValueMart Fish Sticks|VM26182784343090483|4.59|0.28|1|1|1|1|1|ValueMart|Fish Sticks
+467|Food|Bakery|Portland's Best English Muffins|PB26182784343090724|3.09|0.40|1|1|0|0|0|Portland's Best|English Muffins
+468|Food|Seafood|EasyFind Salmon|EF26182784343091217|9.49|0.24|0|0|0|0|1|EasyFind|Salmon
+469|Food|Meat|Super-Valu Tenderloin|SV26182784343090952|11.89|0.30|1|1|1|1|1|Super-Valu|Tenderloin
+470|Food|Produce|Trader Jon's Strawberries|TJ26182784343090591|1.19|0.31|1|1|1|1|1|Trader Jon's|Strawberries
+471|Food|Bakery|SimpleBuy English Muffins|SB26182784343090722|3.19|0.40|1|1|1|1|1|SimpleBuy|English Muffins
+472|Misc|Gifts|SanTop Beard Trimmer|ST26182784343091605|62.49|0.22|1|1|1|1|1|SanTop|Beard Trimmer
+473|Food|Seafood|ValueMart Flounder|VM26182784343091307|13.69|0.24|1|1|1|1|1|ValueMart|Flounder
+474|Non-Food|Liquor|ValueMart Gin|VM26182784343091387|22.89|0.31|1|1|1|1|1|ValueMart|Gin
+475|Food|Produce|SimpleBuy Watermelon|SB26182784343090578|3.19|0.31|1|1|1|1|1|SimpleBuy|Watermelon
+476|Food|Canned Goods|ValueMart Lima Beans|VM26182784343090923|2.29|0.32|1|1|1|1|1|ValueMart|Lima Beans
+477|Food|Meat|Super-Valu Glazed Ham|SV26182784343090992|5.49|0.30|1|1|1|1|1|Super-Valu|Glazed Ham
+478|Food|Frozen Goods|Trader Jon's Strawberry Ice Cream|TJ26182784343090471|6.79|0.28|1|1|1|1|1|Trader Jon's|Strawberry Ice Cream
+479|Food|Seafood|Pam's Club Swordfish|PC26182784343091254|17.09|0.24|0|0|1|0|0|Pam's Club|Swordfish
+480|Food|Dairy|EasyFind Lactose Free Milk|EF26182784343091153|4.79|0.29|0|0|0|0|1|EasyFind|Lactose Free Milk
+481|Food|Frozen Goods|Trader Jon's Chocolate Ice Cream|TJ26182784343090455|6.79|0.28|1|1|1|1|1|Trader Jon's|Chocolate Ice Cream
+482|Food|Produce|ValueMart Broccolli|VM26182784343090603|1.19|0.31|1|1|1|1|1|ValueMart|Broccolli
+483|Food|Dairy|Super-Valu Whipped Cream|SV26182784343091136|3.29|0.29|1|1|1|1|1|Super-Valu|Whipped Cream
+484|Food|Canned Goods|Super-Valu Lima Beans|SV26182784343090920|2.19|0.32|1|1|1|1|1|Super-Valu|Lima Beans
+485|Non-Food|Liquor|Pam's Club Bourbon|PC26182784343091414|18.09|0.31|0|0|1|0|0|Pam's Club|Bourbon
+486|Non-Food|Liquor|EasyFind Tequila|EF26182784343091377|14.19|0.31|0|0|0|0|1|EasyFind|Tequila
+487|Food|Seafood|Portland's Best Salmon|PB26182784343091220|10.29|0.24|1|1|0|0|0|Portland's Best|Salmon
+488|Food|Canned Goods|DealZone Lima Beans|DZ26182784343090925|1.89|0.32|0|0|0|1|0|DealZone|Lima Beans
+489|Non-Food|Liquor|ValueMart Ipa|VM26182784343091403|9.19|0.31|1|1|1|1|1|ValueMart|Ipa
+490|Food|Dairy|Trader Jon's Margarine|TJ26182784343091191|3.39|0.29|1|1|1|1|1|Trader Jon's|Margarine
+491|Non-Food|Liquor|SimpleBuy Champagne|SB26182784343091418|31.89|0.31|1|1|1|1|1|SimpleBuy|Champagne
+492|Food|Dairy|SimpleBuy Whole Milk|SB26182784343091074|3.19|0.29|1|1|1|1|1|SimpleBuy|Whole Milk
+493|Food|Bakery|Super-Valu Chocolate Chip Cookies|SV26182784343090760|3.29|0.40|1|1|1|1|1|Super-Valu|Chocolate Chip Cookies
+494|Food|Produce|Trader Jon's Garlic|TJ26182784343090687|1.19|0.31|1|1|1|1|1|Trader Jon's|Garlic
+495|Food|Seafood|ValueMart Catfish|VM26182784343091323|10.29|0.24|1|1|1|1|1|ValueMart|Catfish
+496|Food|Bakery|Super-Valu Hotdog Buns|SV26182784343090712|3.29|0.40|1|1|1|1|1|Super-Valu|Hotdog Buns
+497|Food|Produce|SimpleBuy Apples|SB26182784343090562|1.09|0.31|1|1|1|1|1|SimpleBuy|Apples
+498|Food|Dairy|SimpleBuy Butter Milk|SB26182784343091194|4.29|0.29|1|1|1|1|1|SimpleBuy|Butter Milk
+499|Non-Food|Liquor|Super-Valu Red Wine|SV26182784343091336|21.69|0.31|1|1|1|1|1|Super-Valu|Red Wine
+500|Food|Dairy|EasyFind Grated Parmesan Cheese|EF26182784343091169|2.89|0.29|0|0|0|0|1|EasyFind|Grated Parmesan Cheese
+501|Food|Canned Goods|Trader Jon's Canned Chicken Broth|TJ26182784343090943|2.29|0.32|1|1|1|1|1|Trader Jon's|Canned Chicken Broth
+502|Non-Food|Liquor|EasyFind Champagne|EF26182784343091417|28.29|0.31|0|0|0|0|1|EasyFind|Champagne
+503|Food|Bakery|SimpleBuy Jelly Donuts|SB26182784343090754|4.29|0.40|1|1|1|1|1|SimpleBuy|Jelly Donuts
+504|Food|Seafood|Portland's Best Crab Legs|PB26182784343091300|15.39|0.24|1|1|0|0|0|Portland's Best|Crab Legs
+505|Food|Frozen Goods|Pam's Club Tv Dinner|PC26182784343090518|5.09|0.28|0|0|1|0|0|Pam's Club|Tv Dinner
+506|Food|Meat|SimpleBuy Sausage|SB26182784343090978|6.39|0.30|1|1|1|1|1|SimpleBuy|Sausage
+507|Food|Dairy|SimpleBuy Margarine|SB26182784343091186|3.19|0.29|1|1|1|1|1|SimpleBuy|Margarine
+508|Food|Canned Goods|ValueMart Fruit Cocktail|VM26182784343090883|2.29|0.32|1|1|1|1|1|ValueMart|Fruit Cocktail
+509|Food|Dairy|ValueMart Cheddar Cheese|VM26182784343091107|3.49|0.29|1|1|1|1|1|ValueMart|Cheddar Cheese
+510|Food|Canned Goods|SimpleBuy Canned Green Beans|SB26182784343090914|2.19|0.32|1|1|1|1|1|SimpleBuy|Canned Green Beans
+511|Food|Frozen Goods|SimpleBuy Frozen Juice|SB26182784343090474|2.19|0.28|1|1|1|1|1|SimpleBuy|Frozen Juice
+512|Food|Seafood|EasyFind Lobster|EF26182784343091209|18.89|0.24|0|0|0|0|1|EasyFind|Lobster
+513|Food|Produce|EasyFind Green Peppers|EF26182784343090633|1.89|0.31|0|0|0|0|1|EasyFind|Green Peppers
+514|Food|Dairy|DealZone Butter|DZ26182784343091101|1.89|0.29|0|0|0|1|0|DealZone|Butter
+515|Non-Food|Liquor|DealZone Rye|DZ26182784343091333|11.09|0.31|0|0|0|1|0|DealZone|Rye
+516|Food|Dairy|ValueMart Lactose Free Milk|VM26182784343091155|5.79|0.29|1|1|1|1|1|ValueMart|Lactose Free Milk
+517|Food|Produce|ValueMart Red Peppers|VM26182784343090627|2.29|0.31|1|1|1|1|1|ValueMart|Red Peppers
+518|Food|Meat|ValueMart Chicken Nuggets|VM26182784343091011|5.79|0.30|1|1|1|1|1|ValueMart|Chicken Nuggets
+519|Food|Produce|Portland's Best Watermelon|PB26182784343090580|3.09|0.31|1|1|0|0|0|Portland's Best|Watermelon
+520|Misc|Photography|SanTop Adapters|ST26182784343091579|8.39|0.24|1|1|1|1|1|SanTop|Adapters
+521|Food|Dairy|Pam's Club American Cheese|PC26182784343091126|3.09|0.29|0|0|1|0|0|Pam's Club|American Cheese
+522|Medical|Medical|VidaSource Baby Powder|VS26182784343091490|5.89|0.27|1|1|1|1|1|VidaSource|Baby Powder
+523|Food|Canned Goods|Portland's Best Canned Chicken Broth|PB26182784343090940|2.09|0.32|1|1|0|0|0|Portland's Best|Canned Chicken Broth
+524|Food|Dairy|ValueMart Sour Cream|VM26182784343091179|3.49|0.29|1|1|1|1|1|ValueMart|Sour Cream
+525|Food|Seafood|DealZone Salmon|DZ26182784343091221|9.29|0.24|0|0|0|1|0|DealZone|Salmon
+526|Food|Canned Goods|Portland's Best Canned Tuna|PB26182784343090844|2.09|0.32|1|1|0|0|0|Portland's Best|Canned Tuna
+527|Food|Bakery|ValueMart Wheat Bread|VM26182784343090795|5.79|0.40|1|1|1|1|1|ValueMart|Wheat Bread
+528|Food|Frozen Goods|SimpleBuy Chocolate Ice Cream|SB26182784343090450|6.39|0.28|1|1|1|1|1|SimpleBuy|Chocolate Ice Cream
+529|Non-Food|Liquor|DealZone Champagne|DZ26182784343091421|27.69|0.31|0|0|0|1|0|DealZone|Champagne
+530|Food|Frozen Goods|Pam's Club Ice Cream Sandwiches|PC26182784343090510|2.09|0.28|0|0|1|0|0|Pam's Club|Ice Cream Sandwiches
+531|Food|Dairy|Super-Valu Grated Parmesan Cheese|SV26182784343091168|3.29|0.29|1|1|1|1|1|Super-Valu|Grated Parmesan Cheese
+532|Food|Dairy|Super-Valu Butter|SV26182784343091096|2.19|0.29|1|1|1|1|1|Super-Valu|Butter
+533|Misc|Gifts|TopQuality Greeting Cards|TQ26182784343091584|4.49|0.22|1|1|1|1|1|TopQuality|Greeting Cards
+534|Food|Bakery|Portland's Best Italian Bread|PB26182784343090788|3.09|0.40|1|1|0|0|0|Portland's Best|Italian Bread
+535|Food|Bakery|DealZone White Bread|DZ26182784343090805|2.79|0.40|0|0|0|1|0|DealZone|White Bread
+536|Food|Produce|Pam's Club Green Peppers|PC26182784343090638|2.09|0.31|0|0|1|0|0|Pam's Club|Green Peppers
+537|Medical|Medical|Mother's Choice Crutches|MC26182784343091499|19.69|0.27|1|1|1|1|1|Mother's Choice|Crutches
+538|Medical|Pharmacy|Mother's Choice Birth Control|MC26182784343091543|49.09|0.26|1|1|1|1|1|Mother's Choice|Birth Control
+539|Food|Bakery|Trader Jon's Italian Bread|TJ26182784343090791|3.39|0.40|1|1|1|1|1|Trader Jon's|Italian Bread
+540|Food|Dairy|DealZone Whipped Cream|DZ26182784343091141|2.79|0.29|0|0|0|1|0|DealZone|Whipped Cream
+541|Misc|Gifts|SanTop Football|ST26182784343091607|15.69|0.22|1|1|1|1|1|SanTop|Football
+542|Food|Frozen Goods|DealZone Ice|DZ26182784343090557|0.99|0.28|0|0|0|1|0|DealZone|Ice
+543|Food|Dairy|Pam's Club Whipped Cream|PC26182784343091142|3.09|0.29|0|0|1|0|0|Pam's Club|Whipped Cream
+544|Food|Dairy|SimpleBuy Half And Half|SB26182784343091162|3.19|0.29|1|1|1|1|1|SimpleBuy|Half And Half
+545|Food|Canned Goods|Pam's Club Canned Corn|PC26182784343090902|2.09|0.32|0|0|1|0|0|Pam's Club|Canned Corn
+546|Food|Bakery|ValueMart Croissants|VM26182784343090747|3.49|0.40|1|1|1|1|1|ValueMart|Croissants
+547|Misc|Gifts|TopQuality Box Of Candy|TQ26182784343091594|8.89|0.22|1|1|1|1|1|TopQuality|Box Of Candy
+548|Food|Meat|Portland's Best Ground Beef|PB26182784343090972|6.19|0.30|1|1|0|0|0|Portland's Best|Ground Beef
+549|Food|Frozen Goods|SimpleBuy Frozen Chicken Patties|SB26182784343090530|5.39|0.28|1|1|1|1|1|SimpleBuy|Frozen Chicken Patties
+550|Food|Produce|Pam's Club Squash|PC26182784343090678|2.09|0.31|0|0|1|0|0|Pam's Club|Squash
+551|Food|Bakery|SimpleBuy Coffee Cake|SB26182784343090698|4.29|0.40|1|1|1|1|1|SimpleBuy|Coffee Cake
+552|Food|Produce|EasyFind Potatoes|EF26182784343090617|1.89|0.31|0|0|0|0|1|EasyFind|Potatoes
+553|Medical|Medical|VidaSource Air Purifier|VS26182784343091508|13.99|0.27|1|1|1|1|1|VidaSource|Air Purifier
+554|Medical|Medical|VidaSource Crutches|VS26182784343091498|23.29|0.27|1|1|1|1|1|VidaSource|Crutches
+555|Non-Food|Liquor|ValueMart Champagne|VM26182784343091419|34.29|0.31|1|1|1|1|1|ValueMart|Champagne
+556|Food|Dairy|Portland's Best Half And Half|PB26182784343091164|3.09|0.29|1|1|0|0|0|Portland's Best|Half And Half
+557|Food|Meat|EasyFind Steak|EF26182784343090945|8.49|0.30|0|0|0|0|1|EasyFind|Steak
+558|Food|Meat|ValueMart Rotisserie Chicken|VM26182784343091003|6.89|0.30|1|1|1|1|1|ValueMart|Rotisserie Chicken
+559|Food|Frozen Goods|EasyFind Chocolate Ice Cream|EF26182784343090449|5.69|0.28|0|0|0|0|1|EasyFind|Chocolate Ice Cream
+560|Food|Canned Goods|Super-Valu Canned Olives|SV26182784343090904|2.19|0.32|1|1|1|1|1|Super-Valu|Canned Olives
+561|Food|Meat|Portland's Best Veal|PB26182784343091028|14.29|0.30|1|1|0|0|0|Portland's Best|Veal
+562|Medical|Pharmacy|Mother's Choice Blood Pressure Medicine|MC26182784343091539|39.29|0.26|1|1|1|1|1|Mother's Choice|Blood Pressure Medicine
+563|Food|Seafood|Pam's Club Salmon|PC26182784343091222|10.09|0.24|0|0|1|0|0|Pam's Club|Salmon
+564|Food|Dairy|EasyFind Whole Milk|EF26182784343091073|2.89|0.29|0|0|0|0|1|EasyFind|Whole Milk
+565|Food|Meat|Portland's Best Sliced Turkey|PB26182784343090988|5.19|0.30|1|1|0|0|0|Portland's Best|Sliced Turkey
+566|Food|Meat|Pam's Club Steak|PC26182784343090950|9.09|0.30|0|0|1|0|0|Pam's Club|Steak
+567|Food|Seafood|Pam's Club Sushi|PC26182784343091262|8.09|0.24|0|0|1|0|0|Pam's Club|Sushi
+568|Food|Frozen Goods|EasyFind Vanilla Ice Cream|EF26182784343090457|5.69|0.28|0|0|0|0|1|EasyFind|Vanilla Ice Cream
+569|Misc|Gifts|TopQuality Ring|TQ26182784343091590|38.59|0.22|1|1|1|1|1|TopQuality|Ring
+570|Medical|Pharmacy|VidaSource Pain Killers|VS26182784343091524|34.89|0.26|1|1|1|1|1|VidaSource|Pain Killers
+571|Food|Canned Goods|DealZone Canned Tomatoes|DZ26182784343090861|1.89|0.32|0|0|0|1|0|DealZone|Canned Tomatoes
+572|Food|Canned Goods|Trader Jon's Canned Olives|TJ26182784343090911|2.29|0.32|1|1|1|1|1|Trader Jon's|Canned Olives
+573|Medical|Medical|VidaSource Wheelchair|VS26182784343091512|168.29|0.27|1|1|1|1|1|VidaSource|Wheelchair
+574|Food|Produce|Trader Jon's Red Peppers|TJ26182784343090631|2.29|0.31|1|1|1|1|1|Trader Jon's|Red Peppers
+575|Food|Dairy|EasyFind Low Fat Milk|EF26182784343091081|2.89|0.29|0|0|0|0|1|EasyFind|Low Fat Milk
+576|Food|Canned Goods|Trader Jon's Canned Tomatoes|TJ26182784343090863|2.29|0.32|1|1|1|1|1|Trader Jon's|Canned Tomatoes
+577|Food|Meat|EasyFind Hot Dogs|EF26182784343091049|4.79|0.30|0|0|0|0|1|EasyFind|Hot Dogs
+578|Food|Seafood|ValueMart Shrimp|VM26182784343091203|11.49|0.24|1|1|1|1|1|ValueMart|Shrimp
+579|Medical|Medical|VidaSource Rash Ointment|VS26182784343091514|13.99|0.27|1|1|1|1|1|VidaSource|Rash Ointment
+580|Food|Frozen Goods|SimpleBuy Strawberry Ice Cream|SB26182784343090466|6.39|0.28|1|1|1|1|1|SimpleBuy|Strawberry Ice Cream
+581|Food|Dairy|DealZone Low Fat Milk|DZ26182784343091085|2.79|0.29|0|0|0|1|0|DealZone|Low Fat Milk
+582|Food|Canned Goods|DealZone Canned Olives|DZ26182784343090909|1.89|0.32|0|0|0|1|0|DealZone|Canned Olives
+583|Food|Dairy|EasyFind Yogurt|EF26182784343091129|3.79|0.29|0|0|0|0|1|EasyFind|Yogurt
+584|Food|Dairy|Super-Valu Margarine|SV26182784343091184|3.29|0.29|1|1|1|1|1|Super-Valu|Margarine
+585|Food|Canned Goods|ValueMart Vegatable Soup|VM26182784343090827|2.29|0.32|1|1|1|1|1|ValueMart|Vegatable Soup
+586|Non-Food|Liquor|Pam's Club Champagne|PC26182784343091422|30.09|0.31|0|0|1|0|0|Pam's Club|Champagne
+587|Food|Canned Goods|EasyFind Vegatable Soup|EF26182784343090825|1.89|0.32|0|0|0|0|1|EasyFind|Vegatable Soup
+588|Food|Dairy|Super-Valu Skim Milk|SV26182784343091144|3.29|0.29|1|1|1|1|1|Super-Valu|Skim Milk
+589|Misc|Gifts|SanTop Basketball|ST26182784343091609|15.69|0.22|1|1|1|1|1|SanTop|Basketball
+590|Food|Bakery|Portland's Best Croissants|PB26182784343090748|3.09|0.40|1|1|0|0|0|Portland's Best|Croissants
+591|Food|Dairy|Trader Jon's Eggs|TJ26182784343091095|4.49|0.29|1|1|1|1|1|Trader Jon's|Eggs
+592|Food|Meat|Pam's Club Glazed Ham|PC26182784343090998|5.09|0.30|0|0|1|0|0|Pam's Club|Glazed Ham
+593|Food|Produce|Trader Jon's Onions|TJ26182784343090663|1.19|0.31|1|1|1|1|1|Trader Jon's|Onions
+594|Food|Canned Goods|DealZone Canned Tuna|DZ26182784343090845|1.89|0.32|0|0|0|1|0|DealZone|Canned Tuna
+595|Food|Frozen Goods|Portland's Best Frozen Spinach|PB26182784343090540|2.09|0.28|1|1|0|0|0|Portland's Best|Frozen Spinach
+596|Food|Canned Goods|ValueMart Canned Tuna|VM26182784343090843|2.29|0.32|1|1|1|1|1|ValueMart|Canned Tuna
+597|Non-Food|Liquor|Trader Jon's Gin|TJ26182784343091391|22.49|0.31|1|1|1|1|1|Trader Jon's|Gin
+598|Food|Canned Goods|ValueMart Canned Corn|VM26182784343090899|2.29|0.32|1|1|1|1|1|ValueMart|Canned Corn
+599|Non-Food|Cleaning Supplies|JoyDeal Starch|JD26182784343091485|5.79|0.32|1|1|1|1|1|JoyDeal|Starch
+600|Food|Seafood|Super-Valu Salmon|SV26182784343091216|10.89|0.24|1|1|1|1|1|Super-Valu|Salmon
+601|Misc|Photography|SanTop Lens Cleaner|ST26182784343091583|20.89|0.24|1|1|1|1|1|SanTop|Lens Cleaner
+602|Food|Frozen Goods|SimpleBuy Frozen Ravioli|SB26182784343090442|7.49|0.28|1|1|1|1|1|SimpleBuy|Frozen Ravioli
+603|Food|Canned Goods|SimpleBuy Lima Beans|SB26182784343090922|2.19|0.32|1|1|1|1|1|SimpleBuy|Lima Beans
+604|Food|Meat|Portland's Best Chicken Wings|PB26182784343091060|5.19|0.30|1|1|0|0|0|Portland's Best|Chicken Wings
+605|Food|Seafood|ValueMart Clams|VM26182784343091291|11.49|0.24|1|1|1|1|1|ValueMart|Clams
+606|Food|Canned Goods|Super-Valu Vegatable Soup|SV26182784343090824|2.19|0.32|1|1|1|1|1|Super-Valu|Vegatable Soup
+607|Food|Dairy|SimpleBuy Yogurt|SB26182784343091130|4.29|0.29|1|1|1|1|1|SimpleBuy|Yogurt
+608|Food|Canned Goods|DealZone Baked Beans|DZ26182784343090869|1.89|0.32|0|0|0|1|0|DealZone|Baked Beans
+609|Non-Food|Liquor|DealZone Vodka|DZ26182784343091357|18.49|0.31|0|0|0|1|0|DealZone|Vodka
+610|Misc|Photography|SanTop Memory Card|ST26182784343091559|20.89|0.24|1|1|1|1|1|SanTop|Memory Card
+611|Food|Dairy|ValueMart Whipped Cream|VM26182784343091139|3.49|0.29|1|1|1|1|1|ValueMart|Whipped Cream
+612|Non-Food|Cleaning Supplies|BestPrice Trash Bags|BP26182784343091474|5.49|0.32|1|1|1|1|1|BestPrice|Trash Bags
+613|Food|Meat|DealZone Sausage|DZ26182784343090981|5.59|0.30|0|0|0|1|0|DealZone|Sausage
+614|Food|Bakery|Portland's Best Hamburger Buns|PB26182784343090708|3.09|0.40|1|1|0|0|0|Portland's Best|Hamburger Buns
+615|Food|Bakery|Super-Valu Hamburger Buns|SV26182784343090704|3.29|0.40|1|1|1|1|1|Super-Valu|Hamburger Buns
+616|Food|Canned Goods|EasyFind Kidney Beans|EF26182784343090873|1.89|0.32|0|0|0|0|1|EasyFind|Kidney Beans
+617|Food|Meat|Trader Jon's Rotisserie Chicken|TJ26182784343091007|6.79|0.30|1|1|1|1|1|Trader Jon's|Rotisserie Chicken
+618|Food|Seafood|EasyFind Crab Cakes|EF26182784343091273|11.29|0.24|0|0|0|0|1|EasyFind|Crab Cakes
+619|Food|Bakery|EasyFind Blueberry Muffins|EF26182784343090729|3.79|0.40|0|0|0|0|1|EasyFind|Blueberry Muffins
+620|Food|Canned Goods|Pam's Club Minestrone Soup|PC26182784343090838|2.09|0.32|0|0|1|0|0|Pam's Club|Minestrone Soup
+621|Food|Meat|Pam's Club Sliced Turkey|PC26182784343090990|5.09|0.30|0|0|1|0|0|Pam's Club|Sliced Turkey
+622|Non-Food|Liquor|Pam's Club Ipa|PC26182784343091406|8.09|0.31|0|0|1|0|0|Pam's Club|Ipa
+623|Food|Frozen Goods|EasyFind Frozen Juice|EF26182784343090473|1.89|0.28|0|0|0|0|1|EasyFind|Frozen Juice
+624|Non-Food|Liquor|ValueMart Rum|VM26182784343091395|20.59|0.31|1|1|1|1|1|ValueMart|Rum
+625|Food|Meat|Pam's Club Chicken Nuggets|PC26182784343091014|5.09|0.30|0|0|1|0|0|Pam's Club|Chicken Nuggets
+626|Food|Produce|Portland's Best Potatoes|PB26182784343090620|2.09|0.31|1|1|0|0|0|Portland's Best|Potatoes
+627|Food|Canned Goods|Pam's Club Lima Beans|PC26182784343090926|2.09|0.32|0|0|1|0|0|Pam's Club|Lima Beans
+628|Food|Dairy|Portland's Best Yogurt|PB26182784343091132|4.09|0.29|1|1|0|0|0|Portland's Best|Yogurt
+629|Food|Canned Goods|Pam's Club Baked Beans|PC26182784343090870|2.09|0.32|0|0|1|0|0|Pam's Club|Baked Beans
+630|Food|Bakery|ValueMart Hamburger Buns|VM26182784343090707|3.49|0.40|1|1|1|1|1|ValueMart|Hamburger Buns
+631|Food|Canned Goods|Super-Valu Fruit Cocktail|SV26182784343090880|2.19|0.32|1|1|1|1|1|Super-Valu|Fruit Cocktail
+632|Food|Produce|Pam's Club Cucumbers|PC26182784343090646|2.09|0.31|0|0|1|0|0|Pam's Club|Cucumbers
+633|Food|Frozen Goods|EasyFind Tv Dinner|EF26182784343090513|4.79|0.28|0|0|0|0|1|EasyFind|Tv Dinner
+634|Misc|Gifts|SanTop Ring|ST26182784343091591|36.49|0.22|1|1|1|1|1|SanTop|Ring
+635|Food|Produce|Super-Valu Green Peppers|SV26182784343090632|2.19|0.31|1|1|1|1|1|Super-Valu|Green Peppers
+636|Food|Produce|SimpleBuy Squash|SB26182784343090674|2.19|0.31|1|1|1|1|1|SimpleBuy|Squash
+637|Food|Dairy|SimpleBuy Skim Milk|SB26182784343091146|3.19|0.29|1|1|1|1|1|SimpleBuy|Skim Milk
+638|Food|Meat|Portland's Best Hot Dogs|PB26182784343091052|5.19|0.30|1|1|0|0|0|Portland's Best|Hot Dogs
+639|Food|Dairy|Portland's Best Sour Cream|PB26182784343091180|3.09|0.29|1|1|0|0|0|Portland's Best|Sour Cream
+640|Food|Frozen Goods|Pam's Club Frozen French Fries|PC26182784343090502|5.09|0.28|0|0|1|0|0|Pam's Club|Frozen French Fries
+641|Food|Seafood|ValueMart Swordfish|VM26182784343091251|19.39|0.24|1|1|1|1|1|ValueMart|Swordfish
+642|Food|Meat|Super-Valu Chicken Nuggets|SV26182784343091008|5.49|0.30|1|1|1|1|1|Super-Valu|Chicken Nuggets
+643|Medical|Pharmacy|VidaSource Blood Pressure Medicine|VS26182784343091538|46.49|0.26|1|1|1|1|1|VidaSource|Blood Pressure Medicine
+644|Non-Food|Liquor|Portland's Best Vodka|PB26182784343091356|20.49|0.31|1|1|0|0|0|Portland's Best|Vodka
+645|Food|Seafood|Super-Valu Fried Fish Patties|SV26182784343091264|5.49|0.24|1|1|1|1|1|Super-Valu|Fried Fish Patties
+646|Food|Meat|ValueMart Ground Beef|VM26182784343090971|6.89|0.30|1|1|1|1|1|ValueMart|Ground Beef
+647|Food|Produce|ValueMart Watermelon|VM26182784343090579|3.49|0.31|1|1|1|1|1|ValueMart|Watermelon
+648|Food|Frozen Goods|Portland's Best Frozen Bagels|PB26182784343090524|6.19|0.28|1|1|0|0|0|Portland's Best|Frozen Bagels
+649|Food|Canned Goods|EasyFind Fruit Cocktail|EF26182784343090881|1.89|0.32|0|0|0|0|1|EasyFind|Fruit Cocktail
+650|Food|Bakery|Portland's Best French Bread|PB26182784343090692|3.09|0.40|1|1|0|0|0|Portland's Best|French Bread
+651|Food|Meat|Trader Jon's Sliced Turkey|TJ26182784343090991|5.69|0.30|1|1|1|1|1|Trader Jon's|Sliced Turkey
+652|Food|Produce|SimpleBuy Tomatoes|SB26182784343090594|2.19|0.31|1|1|1|1|1|SimpleBuy|Tomatoes
+653|Food|Bakery|EasyFind French Bread|EF26182784343090689|2.89|0.40|0|0|0|0|1|EasyFind|French Bread
+654|Food|Meat|Portland's Best Rotisserie Chicken|PB26182784343091004|6.19|0.30|1|1|0|0|0|Portland's Best|Rotisserie Chicken
+655|Non-Food|Liquor|DealZone Red Wine|DZ26182784343091341|18.49|0.31|0|0|0|1|0|DealZone|Red Wine
+656|Food|Produce|DealZone Onions|DZ26182784343090661|0.99|0.31|0|0|0|1|0|DealZone|Onions
+657|Food|Frozen Goods|Super-Valu Frozen Ravioli|SV26182784343090440|7.59|0.28|1|1|1|1|1|Super-Valu|Frozen Ravioli
+658|Food|Bakery|SimpleBuy Hotdog Buns|SB26182784343090714|3.19|0.40|1|1|1|1|1|SimpleBuy|Hotdog Buns
+659|Food|Bakery|EasyFind Corn Muffins|EF26182784343090737|3.79|0.40|0|0|0|0|1|EasyFind|Corn Muffins
+660|Food|Dairy|SimpleBuy Butter|SB26182784343091098|2.19|0.29|1|1|1|1|1|SimpleBuy|Butter
+661|Non-Food|Liquor|DealZone Tequila|DZ26182784343091381|13.89|0.31|0|0|0|1|0|DealZone|Tequila
+662|Food|Frozen Goods|SimpleBuy Ice|SB26182784343090554|1.09|0.28|1|1|1|1|1|SimpleBuy|Ice
+663|Food|Frozen Goods|Pam's Club Fish Sticks|PC26182784343090486|4.09|0.28|0|0|1|0|0|Pam's Club|Fish Sticks
+664|Food|Seafood|DealZone Swordfish|DZ26182784343091253|15.69|0.24|0|0|0|1|0|DealZone|Swordfish
+665|Food|Canned Goods|ValueMart Kidney Beans|VM26182784343090875|2.29|0.32|1|1|1|1|1|ValueMart|Kidney Beans
+666|Food|Meat|Super-Valu Chicken Wings|SV26182784343091056|5.49|0.30|1|1|1|1|1|Super-Valu|Chicken Wings
+667|Food|Dairy|Pam's Club Eggs|PC26182784343091094|4.09|0.29|0|0|1|0|0|Pam's Club|Eggs
+668|Non-Food|Liquor|DealZone White Wine|DZ26182784343091349|18.49|0.31|0|0|0|1|0|DealZone|White Wine
+669|Food|Produce|DealZone Garlic|DZ26182784343090685|0.99|0.31|0|0|0|1|0|DealZone|Garlic
+670|Misc|Gifts|SanTop Birthday Cards|ST26182784343091587|4.19|0.22|1|1|1|1|1|SanTop|Birthday Cards
+671|Non-Food|Liquor|ValueMart Red Wine|VM26182784343091339|22.89|0.31|1|1|1|1|1|ValueMart|Red Wine
+672|Food|Seafood|Super-Valu Swordfish|SV26182784343091248|18.39|0.24|1|1|1|1|1|Super-Valu|Swordfish
+673|Non-Food|Liquor|Super-Valu Bourbon|SV26182784343091408|19.49|0.31|1|1|1|1|1|Super-Valu|Bourbon
+674|Food|Meat|SimpleBuy Sliced Turkey|SB26182784343090986|5.39|0.30|1|1|1|1|1|SimpleBuy|Sliced Turkey
+675|Food|Seafood|ValueMart Scallops|VM26182784343091283|13.69|0.24|1|1|1|1|1|ValueMart|Scallops
+676|Food|Frozen Goods|ValueMart Frozen Bagels|VM26182784343090523|6.89|0.28|1|1|1|1|1|ValueMart|Frozen Bagels
+677|Food|Meat|Trader Jon's Chicken Wings|TJ26182784343091063|5.69|0.30|1|1|1|1|1|Trader Jon's|Chicken Wings
+678|Medical|Pharmacy|VidaSource Cholesterol Reducer|VS26182784343091540|52.29|0.26|1|1|1|1|1|VidaSource|Cholesterol Reducer
+679|Medical|Pharmacy|Mother's Choice Antibiotics|MC26182784343091521|29.49|0.26|1|1|1|1|1|Mother's Choice|Antibiotics
+680|Misc|Gifts|SanTop Bracelet|ST26182784343091593|41.69|0.22|1|1|1|1|1|SanTop|Bracelet
+681|Food|Seafood|ValueMart Sushi|VM26182784343091259|9.19|0.24|1|1|1|1|1|ValueMart|Sushi
+682|Non-Food|Liquor|EasyFind White Wine|EF26182784343091345|18.89|0.31|0|0|0|0|1|EasyFind|White Wine
+683|Non-Food|Liquor|Super-Valu Champagne|SV26182784343091416|32.49|0.31|1|1|1|1|1|Super-Valu|Champagne
+684|Food|Dairy|SimpleBuy American Cheese|SB26182784343091122|3.19|0.29|1|1|1|1|1|SimpleBuy|American Cheese
+685|Food|Meat|SimpleBuy Steak|SB26182784343090946|9.59|0.30|1|1|1|1|1|SimpleBuy|Steak
+686|Food|Bakery|Pam's Club Chocolate Chip Cookies|PC26182784343090766|3.09|0.40|0|0|1|0|0|Pam's Club|Chocolate Chip Cookies
+687|Food|Frozen Goods|DealZone Tv Dinner|DZ26182784343090517|4.69|0.28|0|0|0|1|0|DealZone|Tv Dinner
+688|Food|Produce|Portland's Best Bananas|PB26182784343090572|1.09|0.31|1|1|0|0|0|Portland's Best|Bananas
+689|Food|Canned Goods|EasyFind Canned Green Beans|EF26182784343090913|1.89|0.32|0|0|0|0|1|EasyFind|Canned Green Beans
+690|Food|Bakery|EasyFind White Bread|EF26182784343090801|2.89|0.40|0|0|0|0|1|EasyFind|White Bread
+691|Food|Seafood|Trader Jon's Clams|TJ26182784343091295|11.29|0.24|1|1|1|1|1|Trader Jon's|Clams
+692|Food|Seafood|DealZone Crab Legs|DZ26182784343091301|13.89|0.24|0|0|0|1|0|DealZone|Crab Legs
+693|Food|Meat|Trader Jon's Hot Dogs|TJ26182784343091055|5.69|0.30|1|1|1|1|1|Trader Jon's|Hot Dogs
+694|Food|Meat|EasyFind Chicken Nuggets|EF26182784343091009|4.79|0.30|0|0|0|0|1|EasyFind|Chicken Nuggets
+695|Food|Seafood|Portland's Best Clams|PB26182784343091292|10.29|0.24|1|1|0|0|0|Portland's Best|Clams
+696|Food|Meat|Super-Valu Bacon|SV26182784343091040|4.39|0.30|1|1|1|1|1|Super-Valu|Bacon
+697|Food|Bakery|Portland's Best Peanut Butter Cookies|PB26182784343090772|3.09|0.40|1|1|0|0|0|Portland's Best|Peanut Butter Cookies
+698|Food|Frozen Goods|Pam's Club Chocolate Ice Cream|PC26182784343090454|6.09|0.28|0|0|1|0|0|Pam's Club|Chocolate Ice Cream
+699|Medical|Pharmacy|Mother's Choice Nicotine Patches|MC26182784343091533|19.69|0.26|1|1|1|1|1|Mother's Choice|Nicotine Patches
+700|Medical|Pharmacy|VidaSource Birth Control|VS26182784343091542|58.09|0.26|1|1|1|1|1|VidaSource|Birth Control
+701|Food|Seafood|Portland's Best Scallops|PB26182784343091284|12.29|0.24|1|1|0|0|0|Portland's Best|Scallops
+702|Food|Produce|EasyFind Red Peppers|EF26182784343090625|1.89|0.31|0|0|0|0|1|EasyFind|Red Peppers
+703|Food|Meat|Super-Valu Rotisserie Chicken|SV26182784343091000|6.49|0.30|1|1|1|1|1|Super-Valu|Rotisserie Chicken
+704|Food|Produce|Super-Valu Apples|SV26182784343090560|1.09|0.31|1|1|1|1|1|Super-Valu|Apples
+705|Food|Produce|Pam's Club Lettuce|PC26182784343090614|1.09|0.31|0|0|1|0|0|Pam's Club|Lettuce
+706|Non-Food|Liquor|SimpleBuy Gin|SB26182784343091386|21.29|0.31|1|1|1|1|1|SimpleBuy|Gin
+707|Misc|Gifts|TopQuality Electric Razor|TQ26182784343091602|60.59|0.22|1|1|1|1|1|TopQuality|Electric Razor
+708|Food|Produce|Portland's Best Oranges|PB26182784343090652|1.09|0.31|1|1|0|0|0|Portland's Best|Oranges
+709|Food|Frozen Goods|Super-Valu Tv Dinner|SV26182784343090512|5.49|0.28|1|1|1|1|1|Super-Valu|Tv Dinner
+710|Food|Bakery|ValueMart Coffee Cake|VM26182784343090699|4.59|0.40|1|1|1|1|1|ValueMart|Coffee Cake
+711|Food|Canned Goods|EasyFind Canned Corn|EF26182784343090897|1.89|0.32|0|0|0|0|1|EasyFind|Canned Corn
+712|Non-Food|Liquor|Trader Jon's Ipa|TJ26182784343091407|8.99|0.31|1|1|1|1|1|Trader Jon's|Ipa
+713|Food|Dairy|Trader Jon's Skim Milk|TJ26182784343091151|3.39|0.29|1|1|1|1|1|Trader Jon's|Skim Milk
+714|Non-Food|Cleaning Supplies|BestPrice Starch|BP26182784343091484|5.49|0.32|1|1|1|1|1|BestPrice|Starch
+715|Food|Canned Goods|Portland's Best Lima Beans|PB26182784343090924|2.09|0.32|1|1|0|0|0|Portland's Best|Lima Beans
+716|Food|Produce|Pam's Club Strawberries|PC26182784343090590|1.09|0.31|0|0|1|0|0|Pam's Club|Strawberries
+717|Food|Meat|DealZone Rotisserie Chicken|DZ26182784343091005|5.59|0.30|0|0|0|1|0|DealZone|Rotisserie Chicken
+718|Food|Canned Goods|EasyFind Minestrone Soup|EF26182784343090833|1.89|0.32|0|0|0|0|1|EasyFind|Minestrone Soup
+719|Food|Dairy|EasyFind Butter Milk|EF26182784343091193|3.79|0.29|0|0|0|0|1|EasyFind|Butter Milk
+720|Medical|Pharmacy|VidaSource Antibiotics|VS26182784343091520|34.89|0.26|1|1|1|1|1|VidaSource|Antibiotics
+721|Food|Produce|Super-Valu Red Peppers|SV26182784343090624|2.19|0.31|1|1|1|1|1|Super-Valu|Red Peppers
+722|Food|Canned Goods|DealZone Canned Corn|DZ26182784343090901|1.89|0.32|0|0|0|1|0|DealZone|Canned Corn
+723|Food|Canned Goods|Super-Valu Canned Corn|SV26182784343090896|2.19|0.32|1|1|1|1|1|Super-Valu|Canned Corn
+724|Food|Seafood|EasyFind Shrimp|EF26182784343091201|9.49|0.24|0|0|0|0|1|EasyFind|Shrimp
+725|Medical|Medical|Mother's Choice Thermometer|MC26182784343091503|7.89|0.27|1|1|1|1|1|Mother's Choice|Thermometer
+726|Food|Produce|SimpleBuy Oranges|SB26182784343090650|1.09|0.31|1|1|1|1|1|SimpleBuy|Oranges
+727|Non-Food|Cleaning Supplies|BestPrice Dish Soap|BP26182784343091456|3.69|0.32|1|1|1|1|1|BestPrice|Dish Soap
+728|Medical|Medical|VidaSource Nasal Spray|VS26182784343091504|11.69|0.27|1|1|1|1|1|VidaSource|Nasal Spray
+729|Food|Bakery|Pam's Club Coffee Cake|PC26182784343090702|4.09|0.40|0|0|1|0|0|Pam's Club|Coffee Cake
+730|Food|Frozen Goods|Trader Jon's Frozen Juice|TJ26182784343090479|2.29|0.28|1|1|1|1|1|Trader Jon's|Frozen Juice
+731|Food|Frozen Goods|DealZone Strawberry Ice Cream|DZ26182784343090469|5.59|0.28|0|0|0|1|0|DealZone|Strawberry Ice Cream
+732|Medical|Medical|VidaSource Air Humidifier|VS26182784343091506|29.09|0.27|1|1|1|1|1|VidaSource|Air Humidifier
+733|Food|Seafood|Trader Jon's Tuna|TJ26182784343091231|11.29|0.24|1|1|1|1|1|Trader Jon's|Tuna
+734|Food|Bakery|ValueMart Jelly Donuts|VM26182784343090755|4.59|0.40|1|1|1|1|1|ValueMart|Jelly Donuts
+735|Food|Produce|Pam's Club Potatoes|PC26182784343090622|2.09|0.31|0|0|1|0|0|Pam's Club|Potatoes
+736|Non-Food|Liquor|ValueMart Scotch|VM26182784343091371|28.59|0.31|1|1|1|1|1|ValueMart|Scotch
+737|Non-Food|Liquor|ValueMart Ale|VM26182784343091435|10.29|0.31|1|1|1|1|1|ValueMart|Ale
+738|Misc|Photography|TopQuality Film|TQ26182784343091556|11.09|0.24|1|1|1|1|1|TopQuality|Film
+739|Food|Canned Goods|Trader Jon's Kidney Beans|TJ26182784343090879|2.29|0.32|1|1|1|1|1|Trader Jon's|Kidney Beans
+740|Medical|Medical|Mother's Choice Rash Ointment|MC26182784343091515|11.79|0.27|1|1|1|1|1|Mother's Choice|Rash Ointment
+741|Medical|Pharmacy|Mother's Choice Heart Medication|MC26182784343091551|53.99|0.26|1|1|1|1|1|Mother's Choice|Heart Medication
+742|Food|Seafood|Trader Jon's Crab Legs|TJ26182784343091303|16.89|0.24|1|1|1|1|1|Trader Jon's|Crab Legs
+743|Food|Dairy|Super-Valu Eggs|SV26182784343091088|4.39|0.29|1|1|1|1|1|Super-Valu|Eggs
+744|Food|Canned Goods|Trader Jon's Sardines|TJ26182784343090935|4.49|0.32|1|1|1|1|1|Trader Jon's|Sardines
+745|Food|Meat|Super-Valu Sausage|SV26182784343090976|6.49|0.30|1|1|1|1|1|Super-Valu|Sausage
+746|Food|Canned Goods|Portland's Best Kidney Beans|PB26182784343090876|2.09|0.32|1|1|0|0|0|Portland's Best|Kidney Beans
+747|Food|Frozen Goods|Portland's Best Fish Sticks|PB26182784343090484|4.09|0.28|1|1|0|0|0|Portland's Best|Fish Sticks
+748|Food|Frozen Goods|ValueMart Chocolate Ice Cream|VM26182784343090451|6.89|0.28|1|1|1|1|1|ValueMart|Chocolate Ice Cream
+749|Food|Frozen Goods|Trader Jon's Frozen Spinach|TJ26182784343090543|2.29|0.28|1|1|1|1|1|Trader Jon's|Frozen Spinach
+750|Food|Bakery|DealZone Blueberry Muffins|DZ26182784343090733|3.69|0.40|0|0|0|1|0|DealZone|Blueberry Muffins
+751|Non-Food|Liquor|Trader Jon's Pisco|TJ26182784343091431|22.49|0.31|1|1|1|1|1|Trader Jon's|Pisco
+752|Food|Frozen Goods|SimpleBuy Frozen Stuffed Chicken|SB26182784343090490|6.39|0.28|1|1|1|1|1|SimpleBuy|Frozen Stuffed Chicken
+753|Food|Frozen Goods|Pam's Club Vanilla Ice Cream|PC26182784343090462|6.09|0.28|0|0|1|0|0|Pam's Club|Vanilla Ice Cream
+754|Non-Food|Liquor|SimpleBuy Red Wine|SB26182784343091338|21.29|0.31|1|1|1|1|1|SimpleBuy|Red Wine
+755|Food|Meat|DealZone Glazed Ham|DZ26182784343090997|4.69|0.30|0|0|0|1|0|DealZone|Glazed Ham
+756|Food|Meat|DealZone Tenderloin|DZ26182784343090957|10.19|0.30|0|0|0|1|0|DealZone|Tenderloin
+757|Non-Food|Liquor|Portland's Best Rye|PB26182784343091332|12.29|0.31|1|1|0|0|0|Portland's Best|Rye
+758|Non-Food|Liquor|SimpleBuy Hard Lemonade|SB26182784343091442|8.49|0.31|1|1|1|1|1|SimpleBuy|Hard Lemonade
+759|Food|Frozen Goods|Trader Jon's Frozen Pizza|TJ26182784343090439|7.89|0.28|1|1|1|1|1|Trader Jon's|Frozen Pizza
+760|Food|Dairy|ValueMart Whole Milk|VM26182784343091075|3.49|0.29|1|1|1|1|1|ValueMart|Whole Milk
+761|Food|Seafood|DealZone Shrimp|DZ26182784343091205|9.29|0.24|0|0|0|1|0|DealZone|Shrimp
+762|Food|Frozen Goods|Trader Jon's Frozen Stuffed Chicken|TJ26182784343090495|6.79|0.28|1|1|1|1|1|Trader Jon's|Frozen Stuffed Chicken
+763|Misc|Photography|TopQuality Lens Cap|TQ26182784343091574|4.49|0.24|1|1|1|1|1|TopQuality|Lens Cap
+764|Food|Bakery|Pam's Club Corn Muffins|PC26182784343090742|4.09|0.40|0|0|1|0|0|Pam's Club|Corn Muffins
+765|Food|Dairy|EasyFind Sour Cream|EF26182784343091177|2.89|0.29|0|0|0|0|1|EasyFind|Sour Cream
+766|Food|Dairy|DealZone American Cheese|DZ26182784343091125|2.79|0.29|0|0|0|1|0|DealZone|American Cheese
+767|Food|Meat|ValueMart Lamb|VM26182784343090963|12.59|0.30|1|1|1|1|1|ValueMart|Lamb
+768|Food|Dairy|Trader Jon's Butter|TJ26182784343091103|2.29|0.29|1|1|1|1|1|Trader Jon's|Butter
+769|Misc|Photography|SanTop Picture Frames|ST26182784343091571|12.49|0.24|1|1|1|1|1|SanTop|Picture Frames
+770|Food|Bakery|Pam's Club Hotdog Buns|PC26182784343090718|3.09|0.40|0|0|1|0|0|Pam's Club|Hotdog Buns
+771|Food|Seafood|SimpleBuy Cod|SB26182784343091234|9.59|0.24|1|1|1|1|1|SimpleBuy|Cod
+772|Food|Bakery|DealZone English Muffins|DZ26182784343090725|2.79|0.40|0|0|0|1|0|DealZone|English Muffins
+773|Food|Frozen Goods|Trader Jon's Frozen Onion Rings|TJ26182784343090551|3.39|0.28|1|1|1|1|1|Trader Jon's|Frozen Onion Rings
+774|Food|Meat|Portland's Best Sausage|PB26182784343090980|6.19|0.30|1|1|0|0|0|Portland's Best|Sausage
+775|Food|Produce|EasyFind Lettuce|EF26182784343090609|0.99|0.31|0|0|0|0|1|EasyFind|Lettuce
+776|Non-Food|Cleaning Supplies|JoyDeal Bleach|JD26182784343091469|4.89|0.32|1|1|1|1|1|JoyDeal|Bleach
+777|Non-Food|Liquor|DealZone Hard Cider|DZ26182784343091365|18.49|0.31|0|0|0|1|0|DealZone|Hard Cider
+778|Food|Seafood|Portland's Best Swordfish|PB26182784343091252|17.39|0.24|1|1|0|0|0|Portland's Best|Swordfish
+779|Food|Frozen Goods|EasyFind Frozen Ravioli|EF26182784343090441|6.59|0.28|0|0|0|0|1|EasyFind|Frozen Ravioli
+780|Food|Frozen Goods|EasyFind Frozen Pizza|EF26182784343090433|6.59|0.28|0|0|0|0|1|EasyFind|Frozen Pizza
+781|Food|Produce|DealZone Apples|DZ26182784343090565|0.99|0.31|0|0|0|1|0|DealZone|Apples
+782|Food|Produce|Super-Valu Squash|SV26182784343090672|2.19|0.31|1|1|1|1|1|Super-Valu|Squash
+783|Food|Meat|EasyFind Chicken Wings|EF26182784343091057|4.79|0.30|0|0|0|0|1|EasyFind|Chicken Wings
+784|Food|Frozen Goods|SimpleBuy Frozen Spinach|SB26182784343090538|2.19|0.28|1|1|1|1|1|SimpleBuy|Frozen Spinach
+785|Food|Canned Goods|Super-Valu Canned Peaches|SV26182784343090888|3.29|0.32|1|1|1|1|1|Super-Valu|Canned Peaches
+786|Food|Produce|ValueMart Green Peppers|VM26182784343090635|2.29|0.31|1|1|1|1|1|ValueMart|Green Peppers
+787|Non-Food|Liquor|EasyFind Gin|EF26182784343091385|18.89|0.31|0|0|0|0|1|EasyFind|Gin
+788|Food|Produce|SimpleBuy Lettuce|SB26182784343090610|1.09|0.31|1|1|1|1|1|SimpleBuy|Lettuce
+789|Food|Dairy|Portland's Best Low Fat Milk|PB26182784343091084|3.09|0.29|1|1|0|0|0|Portland's Best|Low Fat Milk
+790|Food|Meat|Trader Jon's Tenderloin|TJ26182784343090959|12.39|0.30|1|1|1|1|1|Trader Jon's|Tenderloin
+791|Non-Food|Liquor|ValueMart Vodka|VM26182784343091355|22.89|0.31|1|1|1|1|1|ValueMart|Vodka
+792|Food|Dairy|Pam's Club Lactose Free Milk|PC26182784343091158|5.09|0.29|0|0|1|0|0|Pam's Club|Lactose Free Milk
+793|Food|Meat|ValueMart Tenderloin|VM26182784343090955|12.59|0.30|1|1|1|1|1|ValueMart|Tenderloin
+794|Food|Produce|Trader Jon's Tomatoes|TJ26182784343090599|2.29|0.31|1|1|1|1|1|Trader Jon's|Tomatoes
+795|Food|Meat|Portland's Best Pork|PB26182784343091036|10.29|0.30|1|1|0|0|0|Portland's Best|Pork
+796|Food|Dairy|Trader Jon's American Cheese|TJ26182784343091127|3.39|0.29|1|1|1|1|1|Trader Jon's|American Cheese
+797|Non-Food|Liquor|SimpleBuy Rye|SB26182784343091330|12.79|0.31|1|1|1|1|1|SimpleBuy|Rye
+798|Food|Produce|DealZone Red Peppers|DZ26182784343090629|1.89|0.31|0|0|0|1|0|DealZone|Red Peppers
+799|Non-Food|Liquor|Super-Valu Rye|SV26182784343091328|12.99|0.31|1|1|1|1|1|Super-Valu|Rye
+800|Food|Dairy|ValueMart Margarine|VM26182784343091187|3.49|0.29|1|1|1|1|1|ValueMart|Margarine
+801|Medical|Medical|Mother's Choice Air Humidifier|MC26182784343091507|24.59|0.27|1|1|1|1|1|Mother's Choice|Air Humidifier
+802|Food|Canned Goods|DealZone Canned Green Beans|DZ26182784343090917|1.89|0.32|0|0|0|1|0|DealZone|Canned Green Beans
+803|Food|Meat|Super-Valu Pork|SV26182784343091032|10.89|0.30|1|1|1|1|1|Super-Valu|Pork
+804|Food|Canned Goods|Pam's Club Canned Peaches|PC26182784343090894|3.09|0.32|0|0|1|0|0|Pam's Club|Canned Peaches
+805|Food|Frozen Goods|Portland's Best Frozen Ravioli|PB26182784343090444|7.19|0.28|1|1|0|0|0|Portland's Best|Frozen Ravioli
+806|Food|Frozen Goods|ValueMart Frozen Spinach|VM26182784343090539|2.29|0.28|1|1|1|1|1|ValueMart|Frozen Spinach
+807|Food|Produce|ValueMart Garlic|VM26182784343090683|1.19|0.31|1|1|1|1|1|ValueMart|Garlic
+808|Misc|Photography|TopQuality Telephoto Lens|TQ26182784343091554|110.09|0.24|1|1|1|1|1|TopQuality|Telephoto Lens
+809|Misc|Photography|SanTop Telephoto Lens|ST26182784343091555|104.09|0.24|1|1|1|1|1|SanTop|Telephoto Lens
+810|Food|Produce|ValueMart Apples|VM26182784343090563|1.19|0.31|1|1|1|1|1|ValueMart|Apples
+811|Food|Meat|DealZone Bacon|DZ26182784343091045|3.69|0.30|0|0|0|1|0|DealZone|Bacon
+812|Food|Meat|ValueMart Pork|VM26182784343091035|11.49|0.30|1|1|1|1|1|ValueMart|Pork
+813|Food|Bakery|EasyFind Croissants|EF26182784343090745|2.89|0.40|0|0|0|0|1|EasyFind|Croissants
+814|Food|Bakery|Super-Valu Cinnamon Buns|SV26182784343090808|4.39|0.40|1|1|1|1|1|Super-Valu|Cinnamon Buns
+815|Food|Dairy|Pam's Club Butter|PC26182784343091102|2.09|0.29|0|0|1|0|0|Pam's Club|Butter
+816|Non-Food|Liquor|Super-Valu Ale|SV26182784343091432|9.79|0.31|1|1|1|1|1|Super-Valu|Ale
+817|Food|Bakery|Portland's Best Chocolate Chip Cookies|PB26182784343090764|3.09|0.40|1|1|0|0|0|Portland's Best|Chocolate Chip Cookies
+818|Food|Meat|Pam's Club Rotisserie Chicken|PC26182784343091006|6.09|0.30|0|0|1|0|0|Pam's Club|Rotisserie Chicken
+819|Medical|Pharmacy|VidaSource Decongestant|VS26182784343091548|11.69|0.26|1|1|1|1|1|VidaSource|Decongestant
+820|Food|Canned Goods|EasyFind Canned Tuna|EF26182784343090841|1.89|0.32|0|0|0|0|1|EasyFind|Canned Tuna
+821|Food|Canned Goods|SimpleBuy Baked Beans|SB26182784343090866|2.19|0.32|1|1|1|1|1|SimpleBuy|Baked Beans
+822|Non-Food|Liquor|EasyFind Hard Cider|EF26182784343091361|18.89|0.31|0|0|0|0|1|EasyFind|Hard Cider
+823|Food|Canned Goods|DealZone Vegatable Soup|DZ26182784343090829|1.89|0.32|0|0|0|1|0|DealZone|Vegatable Soup
+824|Food|Dairy|Pam's Club Sour Cream|PC26182784343091182|3.09|0.29|0|0|1|0|0|Pam's Club|Sour Cream
+825|Food|Bakery|SimpleBuy Blueberry Muffins|SB26182784343090730|4.29|0.40|1|1|1|1|1|SimpleBuy|Blueberry Muffins
+826|Medical|Pharmacy|VidaSource Cough Syrup|VS26182784343091536|9.29|0.26|1|1|1|1|1|VidaSource|Cough Syrup
+827|Food|Meat|Pam's Club Lamb|PC26182784343090966|11.09|0.30|0|0|1|0|0|Pam's Club|Lamb
+828|Food|Produce|DealZone Potatoes|DZ26182784343090621|1.89|0.31|0|0|0|1|0|DealZone|Potatoes
+829|Misc|Photography|TopQuality Camera Cleaner Kit|TQ26182784343091580|13.29|0.24|1|1|1|1|1|TopQuality|Camera Cleaner Kit
+830|Food|Seafood|Trader Jon's Lobster|TJ26182784343091215|22.49|0.24|1|1|1|1|1|Trader Jon's|Lobster
+831|Food|Bakery|Super-Valu Coffee Cake|SV26182784343090696|4.39|0.40|1|1|1|1|1|Super-Valu|Coffee Cake
+832|Non-Food|Liquor|DealZone Ipa|DZ26182784343091405|7.39|0.31|0|0|0|1|0|DealZone|Ipa
+833|Food|Produce|Trader Jon's Potatoes|TJ26182784343090623|2.29|0.31|1|1|1|1|1|Trader Jon's|Potatoes
+834|Food|Bakery|SimpleBuy French Bread|SB26182784343090690|3.19|0.40|1|1|1|1|1|SimpleBuy|French Bread
+835|Food|Frozen Goods|Super-Valu Frozen Juice|SV26182784343090472|2.19|0.28|1|1|1|1|1|Super-Valu|Frozen Juice
+836|Food|Meat|DealZone Lamb|DZ26182784343090965|10.19|0.30|0|0|0|1|0|DealZone|Lamb
+837|Food|Bakery|Trader Jon's Wheat Bread|TJ26182784343090799|5.69|0.40|1|1|1|1|1|Trader Jon's|Wheat Bread
+838|Food|Bakery|Portland's Best White Bread|PB26182784343090804|3.09|0.40|1|1|0|0|0|Portland's Best|White Bread
+839|Food|Dairy|Pam's Club Low Fat Milk|PC26182784343091086|3.09|0.29|0|0|1|0|0|Pam's Club|Low Fat Milk
+840|Food|Meat|SimpleBuy Lamb|SB26182784343090962|11.69|0.30|1|1|1|1|1|SimpleBuy|Lamb
+841|Food|Dairy|SimpleBuy Eggs|SB26182784343091090|4.29|0.29|1|1|1|1|1|SimpleBuy|Eggs
+842|Food|Canned Goods|Trader Jon's Minestrone Soup|TJ26182784343090839|2.29|0.32|1|1|1|1|1|Trader Jon's|Minestrone Soup
+843|Food|Canned Goods|Trader Jon's Baked Beans|TJ26182784343090871|2.29|0.32|1|1|1|1|1|Trader Jon's|Baked Beans
+844|Food|Seafood|SimpleBuy Fried Fish Patties|SB26182784343091266|5.39|0.24|1|1|1|1|1|SimpleBuy|Fried Fish Patties
+845|Food|Canned Goods|ValueMart Baked Beans|VM26182784343090867|2.29|0.32|1|1|1|1|1|ValueMart|Baked Beans
+846|Food|Seafood|Super-Valu Sushi|SV26182784343091256|8.69|0.24|1|1|1|1|1|Super-Valu|Sushi
+847|Food|Canned Goods|Portland's Best Canned Green Beans|PB26182784343090916|2.09|0.32|1|1|0|0|0|Portland's Best|Canned Green Beans
+848|Food|Dairy|DealZone Yogurt|DZ26182784343091133|3.69|0.29|0|0|0|1|0|DealZone|Yogurt
+849|Food|Seafood|Trader Jon's Fried Fish Patties|TJ26182784343091271|5.69|0.24|1|1|1|1|1|Trader Jon's|Fried Fish Patties
+850|Non-Food|Liquor|Pam's Club Hard Lemonade|PC26182784343091446|8.09|0.31|0|0|1|0|0|Pam's Club|Hard Lemonade
+851|Food|Meat|Pam's Club Tenderloin|PC26182784343090958|11.09|0.30|0|0|1|0|0|Pam's Club|Tenderloin
+852|Misc|Photography|SanTop Camera Cleaner Kit|ST26182784343091581|12.49|0.24|1|1|1|1|1|SanTop|Camera Cleaner Kit
+853|Medical|Medical|Mother's Choice Nasal Spray|MC26182784343091505|9.89|0.27|1|1|1|1|1|Mother's Choice|Nasal Spray
+854|Medical|Medical|Mother's Choice Wheelchair|MC26182784343091513|142.19|0.27|1|1|1|1|1|Mother's Choice|Wheelchair
+855|Food|Canned Goods|ValueMart Canned Tomatoes|VM26182784343090859|2.29|0.32|1|1|1|1|1|ValueMart|Canned Tomatoes
+856|Misc|Gifts|TopQuality Bracelet|TQ26182784343091592|44.09|0.22|1|1|1|1|1|TopQuality|Bracelet
+857|Non-Food|Liquor|Trader Jon's Tequila|TJ26182784343091383|16.89|0.31|1|1|1|1|1|Trader Jon's|Tequila
+858|Food|Meat|Trader Jon's Bratwurst|TJ26182784343091071|6.79|0.30|1|1|1|1|1|Trader Jon's|Bratwurst
+859|Non-Food|Liquor|Portland's Best Scotch|PB26182784343091372|25.59|0.31|1|1|0|0|0|Portland's Best|Scotch
+860|Food|Bakery|DealZone Chocolate Chip Cookies|DZ26182784343090765|2.79|0.40|0|0|0|1|0|DealZone|Chocolate Chip Cookies
+861|Food|Bakery|Portland's Best Cinnamon Buns|PB26182784343090812|4.09|0.40|1|1|0|0|0|Portland's Best|Cinnamon Buns
+862|Food|Canned Goods|DealZone Fruit Cocktail|DZ26182784343090885|1.89|0.32|0|0|0|1|0|DealZone|Fruit Cocktail
+863|Food|Bakery|Super-Valu Jelly Donuts|SV26182784343090752|4.39|0.40|1|1|1|1|1|Super-Valu|Jelly Donuts
+864|Food|Produce|Super-Valu Bananas|SV26182784343090568|1.09|0.31|1|1|1|1|1|Super-Valu|Bananas
+865|Food|Frozen Goods|SimpleBuy Frozen Bagels|SB26182784343090522|6.39|0.28|1|1|1|1|1|SimpleBuy|Frozen Bagels
+866|Food|Seafood|ValueMart Cod|VM26182784343091235|10.29|0.24|1|1|1|1|1|ValueMart|Cod
+867|Non-Food|Cleaning Supplies|JoyDeal Feather Duster|JD26182784343091483|5.79|0.32|1|1|1|1|1|JoyDeal|Feather Duster
+868|Medical|Medical|VidaSource Splint|VS26182784343091510|13.99|0.27|1|1|1|1|1|VidaSource|Splint
+869|Food|Frozen Goods|ValueMart Frozen French Fries|VM26182784343090499|5.79|0.28|1|1|1|1|1|ValueMart|Frozen French Fries
+870|Food|Meat|SimpleBuy Rotisserie Chicken|SB26182784343091002|6.39|0.30|1|1|1|1|1|SimpleBuy|Rotisserie Chicken
+871|Food|Bakery|DealZone Corn Muffins|DZ26182784343090741|3.69|0.40|0|0|0|1|0|DealZone|Corn Muffins
+872|Food|Produce|Pam's Club Garlic|PC26182784343090686|1.09|0.31|0|0|1|0|0|Pam's Club|Garlic
+873|Food|Frozen Goods|ValueMart Frozen Juice|VM26182784343090475|2.29|0.28|1|1|1|1|1|ValueMart|Frozen Juice
+874|Food|Frozen Goods|Super-Valu Ice|SV26182784343090552|1.09|0.28|1|1|1|1|1|Super-Valu|Ice
+875|Food|Frozen Goods|Portland's Best Ice Cream Sandwiches|PB26182784343090508|2.09|0.28|1|1|0|0|0|Portland's Best|Ice Cream Sandwiches
+876|Food|Produce|Super-Valu Lettuce|SV26182784343090608|1.09|0.31|1|1|1|1|1|Super-Valu|Lettuce
+877|Food|Dairy|Portland's Best Lactose Free Milk|PB26182784343091156|5.19|0.29|1|1|0|0|0|Portland's Best|Lactose Free Milk
+878|Food|Frozen Goods|ValueMart Strawberry Ice Cream|VM26182784343090467|6.89|0.28|1|1|1|1|1|ValueMart|Strawberry Ice Cream
+879|Misc|Photography|TopQuality Analog Camera|TQ26182784343091560|110.09|0.24|1|1|1|1|1|TopQuality|Analog Camera
+880|Food|Frozen Goods|Super-Valu Frozen Stuffed Chicken|SV26182784343090488|6.49|0.28|1|1|1|1|1|Super-Valu|Frozen Stuffed Chicken
+881|Food|Seafood|Super-Valu Crab Legs|SV26182784343091296|16.29|0.24|1|1|1|1|1|Super-Valu|Crab Legs
+882|Food|Produce|EasyFind Onions|EF26182784343090657|0.99|0.31|0|0|0|0|1|EasyFind|Onions
+883|Food|Produce|ValueMart Squash|VM26182784343090675|2.29|0.31|1|1|1|1|1|ValueMart|Squash
+884|Food|Seafood|Super-Valu Catfish|SV26182784343091320|9.79|0.24|1|1|1|1|1|Super-Valu|Catfish
+885|Food|Frozen Goods|DealZone Frozen Stuffed Chicken|DZ26182784343090493|5.59|0.28|0|0|0|1|0|DealZone|Frozen Stuffed Chicken
+886|Food|Bakery|SimpleBuy Chocolate Chip Cookies|SB26182784343090762|3.19|0.40|1|1|1|1|1|SimpleBuy|Chocolate Chip Cookies
+887|Food|Frozen Goods|Trader Jon's Frozen Ravioli|TJ26182784343090447|7.89|0.28|1|1|1|1|1|Trader Jon's|Frozen Ravioli
+888|Misc|Photography|TopQuality Cables|TQ26182784343091576|8.89|0.24|1|1|1|1|1|TopQuality|Cables
+889|Food|Bakery|ValueMart Corn Muffins|VM26182784343090739|4.59|0.40|1|1|1|1|1|ValueMart|Corn Muffins
+890|Food|Canned Goods|Super-Valu Canned Tuna|SV26182784343090840|2.19|0.32|1|1|1|1|1|Super-Valu|Canned Tuna
+891|Food|Meat|Super-Valu Bratwurst|SV26182784343091064|6.49|0.30|1|1|1|1|1|Super-Valu|Bratwurst
+892|Non-Food|Liquor|Portland's Best Rum|PB26182784343091396|18.39|0.31|1|1|0|0|0|Portland's Best|Rum
+893|Food|Meat|Super-Valu Veal|SV26182784343091024|15.19|0.30|1|1|1|1|1|Super-Valu|Veal
+894|Food|Bakery|DealZone Jelly Donuts|DZ26182784343090757|3.69|0.40|0|0|0|1|0|DealZone|Jelly Donuts
+895|Food|Bakery|EasyFind Coffee Cake|EF26182784343090697|3.79|0.40|0|0|0|0|1|EasyFind|Coffee Cake
+896|Food|Dairy|DealZone Cheddar Cheese|DZ26182784343091109|2.79|0.29|0|0|0|1|0|DealZone|Cheddar Cheese
+897|Food|Dairy|Trader Jon's Butter Milk|TJ26182784343091199|4.49|0.29|1|1|1|1|1|Trader Jon's|Butter Milk
+898|Medical|Medical|Mother's Choice Band Aids|MC26182784343091489|6.89|0.27|1|1|1|1|1|Mother's Choice|Band Aids
+899|Food|Seafood|EasyFind Cod|EF26182784343091233|8.49|0.24|0|0|0|0|1|EasyFind|Cod
+900|Food|Dairy|DealZone Eggs|DZ26182784343091093|3.69|0.29|0|0|0|1|0|DealZone|Eggs
+901|Food|Bakery|Trader Jon's Jelly Donuts|TJ26182784343090759|4.49|0.40|1|1|1|1|1|Trader Jon's|Jelly Donuts
+902|Non-Food|Liquor|Trader Jon's Ale|TJ26182784343091439|10.09|0.31|1|1|1|1|1|Trader Jon's|Ale
+903|Food|Produce|Super-Valu Onions|SV26182784343090656|1.09|0.31|1|1|1|1|1|Super-Valu|Onions
+904|Misc|Photography|TopQuality Camera Batteries|TQ26182784343091568|11.09|0.24|1|1|1|1|1|TopQuality|Camera Batteries
+905|Food|Produce|Super-Valu Cucumbers|SV26182784343090640|2.19|0.31|1|1|1|1|1|Super-Valu|Cucumbers
+906|Non-Food|Cleaning Supplies|BestPrice Silver Polishing Cream|BP26182784343091486|6.39|0.32|1|1|1|1|1|BestPrice|Silver Polishing Cream
+907|Non-Food|Liquor|SimpleBuy Hard Cider|SB26182784343091362|21.29|0.31|1|1|1|1|1|SimpleBuy|Hard Cider
+908|Non-Food|Liquor|EasyFind Vodka|EF26182784343091353|18.89|0.31|0|0|0|0|1|EasyFind|Vodka
+909|Food|Bakery|ValueMart French Bread|VM26182784343090691|3.49|0.40|1|1|1|1|1|ValueMart|French Bread
+910|Food|Seafood|EasyFind Catfish|EF26182784343091321|8.49|0.24|0|0|0|0|1|EasyFind|Catfish
+911|Food|Meat|Portland's Best Bratwurst|PB26182784343091068|6.19|0.30|1|1|0|0|0|Portland's Best|Bratwurst
+912|Non-Food|Liquor|Portland's Best White Wine|PB26182784343091348|20.49|0.31|1|1|0|0|0|Portland's Best|White Wine
+913|Non-Food|Liquor|ValueMart Rye|VM26182784343091331|13.69|0.31|1|1|1|1|1|ValueMart|Rye
+914|Food|Canned Goods|SimpleBuy Canned Corn|SB26182784343090898|2.19|0.32|1|1|1|1|1|SimpleBuy|Canned Corn
+915|Food|Seafood|Portland's Best Crab Cakes|PB26182784343091276|12.29|0.24|1|1|0|0|0|Portland's Best|Crab Cakes
+916|Food|Produce|Trader Jon's Watermelon|TJ26182784343090583|3.39|0.31|1|1|1|1|1|Trader Jon's|Watermelon
+917|Food|Dairy|Portland's Best Grated Parmesan Cheese|PB26182784343091172|3.09|0.29|1|1|0|0|0|Portland's Best|Grated Parmesan Cheese
+918|Food|Frozen Goods|ValueMart Frozen Chicken Patties|VM26182784343090531|5.79|0.28|1|1|1|1|1|ValueMart|Frozen Chicken Patties
+919|Food|Seafood|Pam's Club Flounder|PC26182784343091310|12.09|0.24|0|0|1|0|0|Pam's Club|Flounder
+920|Food|Frozen Goods|Super-Valu Frozen Pizza|SV26182784343090432|7.59|0.28|1|1|1|1|1|Super-Valu|Frozen Pizza
+921|Food|Bakery|Super-Valu English Muffins|SV26182784343090720|3.29|0.40|1|1|1|1|1|Super-Valu|English Muffins
+922|Food|Meat|EasyFind Sausage|EF26182784343090977|5.69|0.30|0|0|0|0|1|EasyFind|Sausage
+923|Food|Bakery|Trader Jon's Hotdog Buns|TJ26182784343090719|3.39|0.40|1|1|1|1|1|Trader Jon's|Hotdog Buns
+924|Food|Produce|SimpleBuy Garlic|SB26182784343090682|1.09|0.31|1|1|1|1|1|SimpleBuy|Garlic
+925|Food|Canned Goods|EasyFind Canned Chicken Broth|EF26182784343090937|1.89|0.32|0|0|0|0|1|EasyFind|Canned Chicken Broth
+926|Food|Canned Goods|SimpleBuy Canned Peaches|SB26182784343090890|3.19|0.32|1|1|1|1|1|SimpleBuy|Canned Peaches
+927|Food|Frozen Goods|Super-Valu Frozen Chicken Patties|SV26182784343090528|5.49|0.28|1|1|1|1|1|Super-Valu|Frozen Chicken Patties
+928|Food|Produce|Pam's Club Red Peppers|PC26182784343090630|2.09|0.31|0|0|1|0|0|Pam's Club|Red Peppers
+929|Misc|Gifts|SanTop Stuffed Animal|ST26182784343091597|15.69|0.22|1|1|1|1|1|SanTop|Stuffed Animal
+930|Food|Canned Goods|DealZone Sardines|DZ26182784343090933|3.69|0.32|0|0|0|1|0|DealZone|Sardines
+931|Food|Seafood|DealZone Catfish|DZ26182784343091325|8.29|0.24|0|0|0|1|0|DealZone|Catfish
+932|Food|Seafood|EasyFind Swordfish|EF26182784343091249|15.99|0.24|0|0|0|0|1|EasyFind|Swordfish
+933|Misc|Photography|SanTop Photo Albums|ST26182784343091573|8.39|0.24|1|1|1|1|1|SanTop|Photo Albums
+934|Food|Canned Goods|Pam's Club Sardines|PC26182784343090934|4.09|0.32|0|0|1|0|0|Pam's Club|Sardines
+935|Food|Canned Goods|SimpleBuy Minestrone Soup|SB26182784343090834|2.19|0.32|1|1|1|1|1|SimpleBuy|Minestrone Soup
+936|Food|Produce|EasyFind Broccolli|EF26182784343090601|0.99|0.31|0|0|0|0|1|EasyFind|Broccolli
+937|Food|Dairy|Trader Jon's Low Fat Milk|TJ26182784343091087|3.39|0.29|1|1|1|1|1|Trader Jon's|Low Fat Milk
+938|Food|Meat|EasyFind Ground Beef|EF26182784343090969|5.69|0.30|0|0|0|0|1|EasyFind|Ground Beef
+939|Food|Seafood|DealZone Clams|DZ26182784343091293|9.29|0.24|0|0|0|1|0|DealZone|Clams
+940|Food|Frozen Goods|DealZone Frozen Onion Rings|DZ26182784343090549|2.79|0.28|0|0|0|1|0|DealZone|Frozen Onion Rings
+941|Food|Bakery|Pam's Club Hamburger Buns|PC26182784343090710|3.09|0.40|0|0|1|0|0|Pam's Club|Hamburger Buns
+942|Food|Frozen Goods|SimpleBuy Tv Dinner|SB26182784343090514|5.39|0.28|1|1|1|1|1|SimpleBuy|Tv Dinner
+943|Food|Bakery|Trader Jon's Corn Muffins|TJ26182784343090743|4.49|0.40|1|1|1|1|1|Trader Jon's|Corn Muffins
+944|Food|Frozen Goods|ValueMart Tv Dinner|VM26182784343090515|5.79|0.28|1|1|1|1|1|ValueMart|Tv Dinner
+945|Food|Frozen Goods|SimpleBuy Ice Cream Sandwiches|SB26182784343090506|2.19|0.28|1|1|1|1|1|SimpleBuy|Ice Cream Sandwiches
+946|Food|Produce|Pam's Club Cantaloupe|PC26182784343090670|2.09|0.31|0|0|1|0|0|Pam's Club|Cantaloupe
+947|Food|Frozen Goods|EasyFind Fish Sticks|EF26182784343090481|3.79|0.28|0|0|0|0|1|EasyFind|Fish Sticks
+948|Food|Bakery|EasyFind Wheat Bread|EF26182784343090793|4.79|0.40|0|0|0|0|1|EasyFind|Wheat Bread
+949|Food|Frozen Goods|Pam's Club Frozen Onion Rings|PC26182784343090550|3.09|0.28|0|0|1|0|0|Pam's Club|Frozen Onion Rings
+950|Food|Meat|ValueMart Bratwurst|VM26182784343091067|6.89|0.30|1|1|1|1|1|ValueMart|Bratwurst
+951|Food|Meat|Trader Jon's Lamb|TJ26182784343090967|12.39|0.30|1|1|1|1|1|Trader Jon's|Lamb
+952|Food|Bakery|SimpleBuy Corn Muffins|SB26182784343090738|4.29|0.40|1|1|1|1|1|SimpleBuy|Corn Muffins
+953|Food|Canned Goods|EasyFind Chicken Noodle Soup|EF26182784343090817|1.89|0.32|0|0|0|0|1|EasyFind|Chicken Noodle Soup
+954|Food|Canned Goods|EasyFind Canned Peaches|EF26182784343090889|2.89|0.32|0|0|0|0|1|EasyFind|Canned Peaches
+955|Food|Produce|EasyFind Watermelon|EF26182784343090577|2.89|0.31|0|0|0|0|1|EasyFind|Watermelon
+956|Food|Canned Goods|Pam's Club Canned Tomatoes|PC26182784343090862|2.09|0.32|0|0|1|0|0|Pam's Club|Canned Tomatoes
+957|Food|Bakery|Pam's Club English Muffins|PC26182784343090726|3.09|0.40|0|0|1|0|0|Pam's Club|English Muffins
+958|Food|Canned Goods|DealZone Chicken Noodle Soup|DZ26182784343090821|1.89|0.32|0|0|0|1|0|DealZone|Chicken Noodle Soup
+959|Non-Food|Liquor|SimpleBuy Scotch|SB26182784343091370|26.59|0.31|1|1|1|1|1|SimpleBuy|Scotch
+960|Food|Bakery|EasyFind Chocolate Chip Cookies|EF26182784343090761|2.89|0.40|0|0|0|0|1|EasyFind|Chocolate Chip Cookies
+961|Food|Meat|DealZone Bratwurst|DZ26182784343091069|5.59|0.30|0|0|0|1|0|DealZone|Bratwurst
+962|Food|Seafood|Pam's Club Cod|PC26182784343091238|9.09|0.24|0|0|1|0|0|Pam's Club|Cod
+963|Misc|Photography|SanTop Digital Camera|ST26182784343091553|98.89|0.24|1|1|1|1|1|SanTop|Digital Camera
+964|Food|Canned Goods|SimpleBuy Canned Chicken Broth|SB26182784343090938|2.19|0.32|1|1|1|1|1|SimpleBuy|Canned Chicken Broth
+965|Food|Seafood|Pam's Club Crab Cakes|PC26182784343091278|12.09|0.24|0|0|1|0|0|Pam's Club|Crab Cakes
+966|Non-Food|Liquor|EasyFind Hard Lemonade|EF26182784343091441|7.59|0.31|0|0|0|0|1|EasyFind|Hard Lemonade
+967|Food|Canned Goods|SimpleBuy Chicken Noodle Soup|SB26182784343090818|2.19|0.32|1|1|1|1|1|SimpleBuy|Chicken Noodle Soup
+968|Misc|Photography|TopQuality Photo Albums|TQ26182784343091572|8.89|0.24|1|1|1|1|1|TopQuality|Photo Albums
+969|Non-Food|Cleaning Supplies|BestPrice Glass Cleaner|BP26182784343091478|5.49|0.32|1|1|1|1|1|BestPrice|Glass Cleaner
+970|Food|Meat|DealZone Veal|DZ26182784343091029|12.89|0.30|0|0|0|1|0|DealZone|Veal
+971|Non-Food|Liquor|Super-Valu Ipa|SV26182784343091400|8.69|0.31|1|1|1|1|1|Super-Valu|Ipa
+972|Food|Bakery|Portland's Best Bagels|PB26182784343090780|3.09|0.40|1|1|0|0|0|Portland's Best|Bagels
+973|Food|Bakery|EasyFind Hotdog Buns|EF26182784343090713|2.89|0.40|0|0|0|0|1|EasyFind|Hotdog Buns
+974|Food|Bakery|Pam's Club Blueberry Muffins|PC26182784343090734|4.09|0.40|0|0|1|0|0|Pam's Club|Blueberry Muffins
+975|Food|Dairy|Trader Jon's Mozzarella Cheese|TJ26182784343091119|3.39|0.29|1|1|1|1|1|Trader Jon's|Mozzarella Cheese
+976|Food|Bakery|Portland's Best Wheat Bread|PB26182784343090796|5.19|0.40|1|1|0|0|0|Portland's Best|Wheat Bread
+977|Food|Seafood|Super-Valu Flounder|SV26182784343091304|12.99|0.24|1|1|1|1|1|Super-Valu|Flounder
+978|Food|Meat|SimpleBuy Hot Dogs|SB26182784343091050|5.39|0.30|1|1|1|1|1|SimpleBuy|Hot Dogs
+979|Non-Food|Liquor|EasyFind Ale|EF26182784343091433|8.49|0.31|0|0|0|0|1|EasyFind|Ale
+980|Food|Produce|ValueMart Lettuce|VM26182784343090611|1.19|0.31|1|1|1|1|1|ValueMart|Lettuce
+981|Food|Canned Goods|SimpleBuy Canned Tomatoes|SB26182784343090858|2.19|0.32|1|1|1|1|1|SimpleBuy|Canned Tomatoes
+982|Non-Food|Liquor|DealZone Mezcal|DZ26182784343091453|13.89|0.31|0|0|0|1|0|DealZone|Mezcal
+983|Food|Dairy|EasyFind Butter|EF26182784343091097|1.89|0.29|0|0|0|0|1|EasyFind|Butter
+984|Food|Seafood|ValueMart Tuna|VM26182784343091227|11.49|0.24|1|1|1|1|1|ValueMart|Tuna
+985|Food|Meat|Super-Valu Sliced Turkey|SV26182784343090984|5.49|0.30|1|1|1|1|1|Super-Valu|Sliced Turkey
+986|Non-Food|Liquor|Trader Jon's Rum|TJ26182784343091399|20.19|0.31|1|1|1|1|1|Trader Jon's|Rum
+987|Medical|Pharmacy|Mother's Choice Diabetes Blood Testing Kit|MC26182784343091535|39.29|0.26|1|1|1|1|1|Mother's Choice|Diabetes Blood Testing Kit
+988|Food|Produce|Super-Valu Cantaloupe|SV26182784343090664|2.19|0.31|1|1|1|1|1|Super-Valu|Cantaloupe
+989|Food|Dairy|SimpleBuy Mozzarella Cheese|SB26182784343091114|3.19|0.29|1|1|1|1|1|SimpleBuy|Mozzarella Cheese
+990|Food|Canned Goods|DealZone Canned Chili|DZ26182784343090853|1.89|0.32|0|0|0|1|0|DealZone|Canned Chili
+991|Food|Produce|Super-Valu Potatoes|SV26182784343090616|2.19|0.31|1|1|1|1|1|Super-Valu|Potatoes
+992|Food|Bakery|ValueMart Blueberry Muffins|VM26182784343090731|4.59|0.40|1|1|1|1|1|ValueMart|Blueberry Muffins
+993|Non-Food|Cleaning Supplies|JoyDeal Silver Polishing Cream|JD26182784343091487|6.79|0.32|1|1|1|1|1|JoyDeal|Silver Polishing Cream
+994|Food|Dairy|ValueMart Low Fat Milk|VM26182784343091083|3.49|0.29|1|1|1|1|1|ValueMart|Low Fat Milk
+995|Medical|Medical|VidaSource Cold Remedy|VS26182784343091500|9.29|0.27|1|1|1|1|1|VidaSource|Cold Remedy
+996|Food|Canned Goods|DealZone Kidney Beans|DZ26182784343090877|1.89|0.32|0|0|0|1|0|DealZone|Kidney Beans
+997|Misc|Gifts|TopQuality Golf Clubs|TQ26182784343091614|110.09|0.22|1|1|1|1|1|TopQuality|Golf Clubs
+998|Food|Canned Goods|Trader Jon's Vegatable Soup|TJ26182784343090831|2.29|0.32|1|1|1|1|1|Trader Jon's|Vegatable Soup
+999|Misc|Gifts|TopQuality Stuffed Animal|TQ26182784343091596|16.59|0.22|1|1|1|1|1|TopQuality|Stuffed Animal
+1000|Food|Seafood|DealZone Fried Fish Patties|DZ26182784343091269|4.69|0.24|0|0|0|1|0|DealZone|Fried Fish Patties
+1001|Non-Food|Cleaning Supplies|BestPrice Rubber Gloves|BP26182784343091480|5.49|0.32|1|1|1|1|1|BestPrice|Rubber Gloves
+1002|Non-Food|Liquor|Super-Valu Tequila|SV26182784343091376|16.29|0.31|1|1|1|1|1|Super-Valu|Tequila
+1003|Non-Food|Cleaning Supplies|JoyDeal Rubber Gloves|JD26182784343091481|5.79|0.32|1|1|1|1|1|JoyDeal|Rubber Gloves
+1004|Food|Seafood|DealZone Haddock|DZ26182784343091317|9.29|0.24|0|0|0|1|0|DealZone|Haddock
+1005|Misc|Gifts|SanTop Box Of Candy|ST26182784343091595|8.39|0.22|1|1|1|1|1|SanTop|Box Of Candy
+1006|Food|Dairy|DealZone Half And Half|DZ26182784343091165|2.79|0.29|0|0|0|1|0|DealZone|Half And Half
+1007|Food|Frozen Goods|Pam's Club Frozen Chicken Patties|PC26182784343090534|5.09|0.28|0|0|1|0|0|Pam's Club|Frozen Chicken Patties
+1008|Food|Produce|ValueMart Cucumbers|VM26182784343090643|2.29|0.31|1|1|1|1|1|ValueMart|Cucumbers
+1009|Food|Produce|EasyFind Apples|EF26182784343090561|0.99|0.31|0|0|0|0|1|EasyFind|Apples
+1010|Food|Dairy|Portland's Best Butter Milk|PB26182784343091196|4.09|0.29|1|1|0|0|0|Portland's Best|Butter Milk
+1011|Food|Meat|ValueMart Steak|VM26182784343090947|10.29|0.30|1|1|1|1|1|ValueMart|Steak
+1012|Food|Meat|SimpleBuy Chicken Wings|SB26182784343091058|5.39|0.30|1|1|1|1|1|SimpleBuy|Chicken Wings
+1013|Food|Canned Goods|Portland's Best Canned Tomatoes|PB26182784343090860|2.09|0.32|1|1|0|0|0|Portland's Best|Canned Tomatoes
+1014|Food|Frozen Goods|Super-Valu Ice Cream Sandwiches|SV26182784343090504|2.19|0.28|1|1|1|1|1|Super-Valu|Ice Cream Sandwiches
+1015|Food|Frozen Goods|DealZone Frozen Ravioli|DZ26182784343090445|6.49|0.28|0|0|0|1|0|DealZone|Frozen Ravioli
+1016|Medical|Pharmacy|Mother's Choice Vapor Rub|MC26182784343091545|7.89|0.26|1|1|1|1|1|Mother's Choice|Vapor Rub
+1017|Food|Bakery|DealZone Wheat Bread|DZ26182784343090797|4.69|0.40|0|0|0|1|0|DealZone|Wheat Bread
+1018|Food|Frozen Goods|DealZone Ice Cream Sandwiches|DZ26182784343090509|1.89|0.28|0|0|0|1|0|DealZone|Ice Cream Sandwiches
+1019|Food|Bakery|Portland's Best Coffee Cake|PB26182784343090700|4.09|0.40|1|1|0|0|0|Portland's Best|Coffee Cake
+1020|Food|Meat|Pam's Club Hot Dogs|PC26182784343091054|5.09|0.30|0|0|1|0|0|Pam's Club|Hot Dogs
+1021|Food|Seafood|Pam's Club Fried Fish Patties|PC26182784343091270|5.09|0.24|0|0|1|0|0|Pam's Club|Fried Fish Patties
+1022|Food|Dairy|Super-Valu Low Fat Milk|SV26182784343091080|3.29|0.29|1|1|1|1|1|Super-Valu|Low Fat Milk
+1023|Food|Produce|SimpleBuy Potatoes|SB26182784343090618|2.19|0.31|1|1|1|1|1|SimpleBuy|Potatoes
+1024|Food|Frozen Goods|Super-Valu Chocolate Ice Cream|SV26182784343090448|6.49|0.28|1|1|1|1|1|Super-Valu|Chocolate Ice Cream
+1025|Non-Food|Cleaning Supplies|JoyDeal Oven Cleaner|JD26182784343091477|5.79|0.32|1|1|1|1|1|JoyDeal|Oven Cleaner
+1026|Food|Canned Goods|SimpleBuy Vegatable Soup|SB26182784343090826|2.19|0.32|1|1|1|1|1|SimpleBuy|Vegatable Soup
+1027|Food|Bakery|ValueMart Hotdog Buns|VM26182784343090715|3.49|0.40|1|1|1|1|1|ValueMart|Hotdog Buns
+1028|Non-Food|Cleaning Supplies|BestPrice Feather Duster|BP26182784343091482|5.49|0.32|1|1|1|1|1|BestPrice|Feather Duster
+1029|Food|Produce|Portland's Best Lettuce|PB26182784343090612|1.09|0.31|1|1|0|0|0|Portland's Best|Lettuce
+1030|Food|Meat|EasyFind Bacon|EF26182784343091041|3.79|0.30|0|0|0|0|1|EasyFind|Bacon
+1031|Food|Produce|Pam's Club Broccolli|PC26182784343090606|1.09|0.31|0|0|1|0|0|Pam's Club|Broccolli
+1032|Non-Food|Liquor|Super-Valu Rum|SV26182784343091392|19.49|0.31|1|1|1|1|1|Super-Valu|Rum
+1033|Misc|Gifts|SanTop Tennis Racket|ST26182784343091611|52.09|0.22|1|1|1|1|1|SanTop|Tennis Racket
+1034|Food|Canned Goods|Pam's Club Canned Chicken Broth|PC26182784343090942|2.09|0.32|0|0|1|0|0|Pam's Club|Canned Chicken Broth
+1035|Food|Seafood|EasyFind Scallops|EF26182784343091281|11.29|0.24|0|0|0|0|1|EasyFind|Scallops
+1036|Food|Seafood|SimpleBuy Catfish|SB26182784343091322|9.59|0.24|1|1|1|1|1|SimpleBuy|Catfish
+1037|Non-Food|Liquor|DealZone Gin|DZ26182784343091389|18.49|0.31|0|0|0|1|0|DealZone|Gin
+1038|Food|Meat|DealZone Chicken Patties|DZ26182784343091021|4.69|0.30|0|0|0|1|0|DealZone|Chicken Patties
+1039|Food|Canned Goods|Portland's Best Baked Beans|PB26182784343090868|2.09|0.32|1|1|0|0|0|Portland's Best|Baked Beans
+1040|Food|Seafood|Trader Jon's Halibut|TJ26182784343091247|10.09|0.24|1|1|1|1|1|Trader Jon's|Halibut
+1041|Food|Bakery|SimpleBuy Cinnamon Buns|SB26182784343090810|4.29|0.40|1|1|1|1|1|SimpleBuy|Cinnamon Buns
+1042|Food|Meat|ValueMart Bacon|VM26182784343091043|4.59|0.30|1|1|1|1|1|ValueMart|Bacon
+1043|Non-Food|Liquor|Pam's Club Rye|PC26182784343091334|12.09|0.31|0|0|1|0|0|Pam's Club|Rye
+1044|Non-Food|Liquor|EasyFind Rye|EF26182784343091329|11.29|0.31|0|0|0|0|1|EasyFind|Rye
+1045|Misc|Gifts|TopQuality Perfume|TQ26182784343091600|49.59|0.22|1|1|1|1|1|TopQuality|Perfume
+1046|Food|Bakery|DealZone French Bread|DZ26182784343090693|2.79|0.40|0|0|0|1|0|DealZone|French Bread
+1047|Food|Dairy|ValueMart Yogurt|VM26182784343091131|4.59|0.29|1|1|1|1|1|ValueMart|Yogurt
+1048|Food|Bakery|Super-Valu Bagels|SV26182784343090776|3.29|0.40|1|1|1|1|1|Super-Valu|Bagels
+1049|Food|Dairy|Portland's Best Butter|PB26182784343091100|2.09|0.29|1|1|0|0|0|Portland's Best|Butter
+1050|Non-Food|Liquor|Portland's Best Mezcal|PB26182784343091452|15.39|0.31|1|1|0|0|0|Portland's Best|Mezcal
+1051|Food|Bakery|Super-Valu Italian Bread|SV26182784343090784|3.29|0.40|1|1|1|1|1|Super-Valu|Italian Bread
+1052|Food|Dairy|Pam's Club Margarine|PC26182784343091190|3.09|0.29|0|0|1|0|0|Pam's Club|Margarine
+1053|Food|Produce|Pam's Club Apples|PC26182784343090566|1.09|0.31|0|0|1|0|0|Pam's Club|Apples
+1054|Non-Food|Liquor|Pam's Club Red Wine|PC26182784343091342|20.09|0.31|0|0|1|0|0|Pam's Club|Red Wine
+1055|Food|Meat|Super-Valu Steak|SV26182784343090944|9.79|0.30|1|1|1|1|1|Super-Valu|Steak
+1056|Non-Food|Liquor|Pam's Club Vodka|PC26182784343091358|20.09|0.31|0|0|1|0|0|Pam's Club|Vodka
+1057|Food|Bakery|Pam's Club Wheat Bread|PC26182784343090798|5.09|0.40|0|0|1|0|0|Pam's Club|Wheat Bread
+1058|Food|Seafood|DealZone Scallops|DZ26182784343091285|11.09|0.24|0|0|0|1|0|DealZone|Scallops
+1059|Misc|Photography|TopQuality Camera Case|TQ26182784343091562|33.09|0.24|1|1|1|1|1|TopQuality|Camera Case
+1060|Food|Canned Goods|EasyFind Baked Beans|EF26182784343090865|1.89|0.32|0|0|0|0|1|EasyFind|Baked Beans
+1061|Food|Canned Goods|Super-Valu Canned Tomatoes|SV26182784343090856|2.19|0.32|1|1|1|1|1|Super-Valu|Canned Tomatoes
+1062|Food|Produce|Super-Valu Broccolli|SV26182784343090600|1.09|0.31|1|1|1|1|1|Super-Valu|Broccolli
+1063|Food|Bakery|EasyFind Bagels|EF26182784343090777|2.89|0.40|0|0|0|0|1|EasyFind|Bagels
+1064|Food|Produce|Trader Jon's Squash|TJ26182784343090679|2.29|0.31|1|1|1|1|1|Trader Jon's|Squash
+1065|Food|Seafood|Super-Valu Shrimp|SV26182784343091200|10.89|0.24|1|1|1|1|1|Super-Valu|Shrimp
+1066|Food|Canned Goods|Pam's Club Canned Green Beans|PC26182784343090918|2.09|0.32|0|0|1|0|0|Pam's Club|Canned Green Beans
+1067|Food|Meat|Trader Jon's Ground Beef|TJ26182784343090975|6.79|0.30|1|1|1|1|1|Trader Jon's|Ground Beef
+1068|Non-Food|Liquor|Super-Valu Vodka|SV26182784343091352|21.69|0.31|1|1|1|1|1|Super-Valu|Vodka
+1069|Non-Food|Cleaning Supplies|BestPrice Fabric Softener|BP26182784343091464|5.49|0.32|1|1|1|1|1|BestPrice|Fabric Softener
+1070|Food|Meat|DealZone Chicken Nuggets|DZ26182784343091013|4.69|0.30|0|0|0|1|0|DealZone|Chicken Nuggets
+1071|Food|Produce|EasyFind Strawberries|EF26182784343090585|0.99|0.31|0|0|0|0|1|EasyFind|Strawberries
+1072|Food|Frozen Goods|EasyFind Frozen Onion Rings|EF26182784343090545|2.89|0.28|0|0|0|0|1|EasyFind|Frozen Onion Rings
+1073|Food|Meat|SimpleBuy Chicken Patties|SB26182784343091018|5.39|0.30|1|1|1|1|1|SimpleBuy|Chicken Patties
+1074|Food|Dairy|Pam's Club Grated Parmesan Cheese|PC26182784343091174|3.09|0.29|0|0|1|0|0|Pam's Club|Grated Parmesan Cheese
+1075|Food|Produce|Portland's Best Apples|PB26182784343090564|1.09|0.31|1|1|0|0|0|Portland's Best|Apples
+1076|Food|Seafood|Super-Valu Tuna|SV26182784343091224|10.89|0.24|1|1|1|1|1|Super-Valu|Tuna
+1077|Food|Bakery|Trader Jon's Chocolate Chip Cookies|TJ26182784343090767|3.39|0.40|1|1|1|1|1|Trader Jon's|Chocolate Chip Cookies
+1078|Food|Canned Goods|Pam's Club Canned Olives|PC26182784343090910|2.09|0.32|0|0|1|0|0|Pam's Club|Canned Olives
+1079|Food|Produce|ValueMart Cantaloupe|VM26182784343090667|2.29|0.31|1|1|1|1|1|ValueMart|Cantaloupe
+1080|Food|Frozen Goods|Pam's Club Frozen Stuffed Chicken|PC26182784343090494|6.09|0.28|0|0|1|0|0|Pam's Club|Frozen Stuffed Chicken
+1081|Food|Dairy|SimpleBuy Lactose Free Milk|SB26182784343091154|5.39|0.29|1|1|1|1|1|SimpleBuy|Lactose Free Milk
+1082|Food|Seafood|ValueMart Lobster|VM26182784343091211|22.89|0.24|1|1|1|1|1|ValueMart|Lobster
+1083|Food|Meat|ValueMart Veal|VM26182784343091027|15.99|0.30|1|1|1|1|1|ValueMart|Veal
+1084|Food|Seafood|SimpleBuy Clams|SB26182784343091290|10.69|0.24|1|1|1|1|1|SimpleBuy|Clams
+1085|Food|Meat|DealZone Steak|DZ26182784343090949|8.29|0.30|0|0|0|1|0|DealZone|Steak
+1086|Food|Meat|Super-Valu Lamb|SV26182784343090960|11.89|0.30|1|1|1|1|1|Super-Valu|Lamb
+1087|Non-Food|Liquor|Portland's Best Gin|PB26182784343091388|20.49|0.31|1|1|0|0|0|Portland's Best|Gin
+1088|Medical|Medical|Mother's Choice First Aid Kit|MC26182784343091493|9.89|0.27|1|1|1|1|1|Mother's Choice|First Aid Kit
+1089|Food|Seafood|EasyFind Fried Fish Patties|EF26182784343091265|4.79|0.24|0|0|0|0|1|EasyFind|Fried Fish Patties
+1090|Medical|Pharmacy|VidaSource Ulcer Medication|VS26182784343091546|58.09|0.26|1|1|1|1|1|VidaSource|Ulcer Medication
+1091|Food|Bakery|Portland's Best Corn Muffins|PB26182784343090740|4.09|0.40|1|1|0|0|0|Portland's Best|Corn Muffins
+1092|Food|Produce|DealZone Strawberries|DZ26182784343090589|0.99|0.31|0|0|0|1|0|DealZone|Strawberries
+1093|Food|Dairy|Portland's Best Margarine|PB26182784343091188|3.09|0.29|1|1|0|0|0|Portland's Best|Margarine
+1094|Food|Dairy|ValueMart Half And Half|VM26182784343091163|3.49|0.29|1|1|1|1|1|ValueMart|Half And Half
+1095|Food|Produce|Portland's Best Onions|PB26182784343090660|1.09|0.31|1|1|0|0|0|Portland's Best|Onions
+1096|Food|Seafood|EasyFind Sushi|EF26182784343091257|7.59|0.24|0|0|0|0|1|EasyFind|Sushi
+1097|Food|Seafood|ValueMart Haddock|VM26182784343091315|11.49|0.24|1|1|1|1|
